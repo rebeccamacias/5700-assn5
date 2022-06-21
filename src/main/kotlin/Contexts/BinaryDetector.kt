@@ -14,8 +14,14 @@ class BinaryDetector: Detector() {
             .dropLast(1)
             .toMutableList()
 
-        for (character in characters) {
-            state.consumeInput(character)
+        for (i in 0 until characters.size) {
+            if (characters[i] == "0" && (i == 0 || i == characters.size - 1)) {
+                return false
+            } else if (characters[i] != "0" && characters[i] != "1") {
+                println(characters[i])
+                return false
+            }
+            state.consumeInput(characters[i])
         }
 
         val isAccepting = state.isAccepting

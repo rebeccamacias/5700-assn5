@@ -14,8 +14,11 @@ class IntegerDetector: Detector() {
             .dropLast(1)
             .toMutableList()
 
-        for (character in characters) {
-            state.consumeInput(character)
+        for (i in 0 until characters.size) {
+            if (characters[i] == "0" && i == 0) {
+                return false
+            }
+            state.consumeInput(characters[i])
         }
 
         val isAccepting = state.isAccepting
