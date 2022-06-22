@@ -4,7 +4,7 @@ import Contexts.BinaryDetector
 import Contexts.Detector
 
 class ValidStartState(detector: Detector): State(detector) {
-    override var isAccepting = false
+    override var isAccepting = true
 
     override fun consumeInput(string: String) {
         if (string == "0") {

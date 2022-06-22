@@ -5,9 +5,7 @@ import States.State
 
 class PasswordDetector: Detector() {
     override var state: State = StartState(this)
-    override var isAccepting: Boolean
-        get() = TODO("Not yet implemented")
-        set(value) {}
+    override var isAccepting: Boolean = false
 
     override fun detect(input: String): Boolean {
         val characters = input
