@@ -10,7 +10,7 @@ class ValidLetterState(detector: Detector): State(detector) {
 
     override fun consumeInput(string: String) {
         isAccepting = detector is EmailDetector || detector is PasswordDetector
-        if (string !in "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ)") {
+        if (string !in "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ)" && !isAccepting) {
             detector.state = InvalidState(detector)
         }
     }

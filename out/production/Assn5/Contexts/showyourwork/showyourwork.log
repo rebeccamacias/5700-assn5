@@ -7042,3 +7042,1630 @@ set(value) {}","","149","1655865968273","PasswordDetector.kt","1.1.3 for 2021-20
 "a","Reload From Disk",,,"1655868647103","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
 "a","Reload From Disk",,,"1655868707844","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
 "a","Reload From Disk",,,"1655868746519","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655869142568","EmailDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","
+        get() = TODO(""Not yet implemented"")
+        set(value) {}","184","1655869142572","EmailDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","184","1655869142703","EmailDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"185","1655869142705","EmailDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","=","","185","1655869142793","EmailDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","=",,"186","1655869142794","EmailDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","186","1655869142901","EmailDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"187","1655869142902","EmailDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","f","","187","1655869145721","EmailDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","f",,"188","1655869145722","EmailDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","a","","188","1655869145801","EmailDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","a",,"189","1655869145802","EmailDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","l","","189","1655869145966","EmailDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","l",,"190","1655869145967","EmailDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","s","","190","1655869146083","EmailDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","s",,"191","1655869146083","EmailDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","e","","191","1655869146252","EmailDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","e",,"192","1655869146253","EmailDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655869155140","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","
+        get() = TODO(""Not yet implemented"")
+        set(value) {}","187","1655869155142","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","187","1655869155285","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"188","1655869155286","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","=","","188","1655869155369","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","=",,"189","1655869155370","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","189","1655869155637","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"190","1655869155638","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","a","","190","1655869155708","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","a",,"191","1655869155708","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","191","1655869155732","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655869156039","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","a$","190","1655869156042","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","f","","190","1655869156140","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","f",,"191","1655869156140","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","191","1655869156159","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","191","1655869156221","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","a","","191","1655869156222","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","a",,"192","1655869156223","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","192","1655869156239","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","192","1655869156502","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","l","","192","1655869156503","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","l",,"193","1655869156506","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","193","1655869156539","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","193","1655869156679","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","s","","193","1655869156680","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","s",,"194","1655869156681","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","194","1655869156710","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","194","1655869156845","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","e","","194","1655869156846","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","e",,"195","1655869156847","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","195","1655869156869","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Reload From Disk",,,"1655869469987","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Close Active Editor",,,"1655869748936","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Close Active Editor",,,"1655869750014","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Close Active Editor",,,"1655869751248","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Close Active Editor",,,"1655869753010","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","EditorChange",,,"1655869753038","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","EditorChange",,,"1655869754050","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Close Active Editor",,,"1655869754740","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Close Active Editor",,,"1655869755785","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Close Active Editor",,,"1655869756611","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Close Active Editor",,,"1655869757616","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Close Active Editor",,,"1655869758544","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","EditorChange",,,"1655869759680","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Reload From Disk",,,"1655869759876","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Reload From Disk",,,"1655869759905","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Close Active Editor",,,"1655869760889","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","package Contexts
+
+import States.StartState
+import States.StartState
+import States.State
+
+abstract class Detector {
+    
+    abstract var isAccepting: Boolean
+    abstract var isAccepting: BooleanX.f$","0","1655869977086","Detector.kt","1.1.3 for 2021-2022 @t1",
+"e","package Contexts
+
+import States.StartState
+import States.State
+
+abstract class Detector {
+    abstract var state: State
+    abstract var isAccepting: Boolean
+
+    abstract fun detect(input: String): Boolean
+}","","0","1655869977086","Detector.kt","1.1.3 for 2021-2022 @t1",
+"e","","package Contexts
+
+import States.StartState
+import States.State
+
+class BinaryDetector: Detector() {
+    override var state: State = StartState(this)
+    override override var isAcceptingoverride fun detect(input: String): Boolean {
+        val characters = input
+            .trim()
+            .split("""")
+            .drop(1)
+            .dropLast(1)
+            .toMutableList()
+
+        for (i in 0 until characters.size) {
+            if (characters[i] == ""0"" && (i == 0 || i == characters.size - 1)) {
+                return false
+            } else if (characters[i] != ""0"" && characters[i] != ""1"") {
+                return false
+            }
+            state.consumeInput(characters[i])
+            isAccepting = stAcceptingsAccepting
+            state = StartState(this)
+
+        }
+
+        return isAcceptingAccepting}
+}","0","1655869977506","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","package Contexts
+
+import States.StartState
+import States.State
+
+class BinaryDetector: Detector() {
+    override var state: State = StartState(this)
+    override var isAccepting = false
+
+    override fun detect(input: String): Boolean {
+        val characters = input
+            .trim()
+            .split("""")
+            .drop(1)
+            .dropLast(1)
+            .toMutableList()
+
+        for (i in 0 until characters.size) {
+            if (characters[i] == ""0"" && (i == 0 || i == characters.size - 1)) {
+                return false
+            } else if (characters[i] != ""0"" && characters[i] != ""1"") {
+                return false
+            }
+            state.consumeInput(characters[i])
+            isAccepting = state.isAccepting
+            state = StartState(this)
+
+        }
+        return isAccepting
+    }
+}","","0","1655869977506","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","package Contexts
+
+import States.StartState
+import States.State
+
+class EmailDetector: Detector() {
+    override var state: State = StartState(this)
+    override var isAccepting: Boolean = false
+    override var isAccepting: Boolean
+        get() = TODO(""Not yet implemented"")
+        set(value) {}.drop(1)
+            .dropLast(1)
+            .toMutableList()
+
+        for (character in characters) {
+            state.consumeInput(character)
+        }
+
+        val isAccepting = state.isAccepting
+        state = StartState(this)
+        return isAccepting
+    }
+}","0","1655869977604","EmailDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","package Contexts
+
+import States.StartState
+import States.State
+
+class EmailDetector: Detector() {
+    override var state: State = StartState(this)
+    override var isAccepting: Boolean = false
+
+    override fun detect(input: String): Boolean{
+        val characters = input
+            .trim()
+            .split("""")
+            .drop(1)
+            .dropLast(1)
+            .toMutableList()
+
+        for (character in characters) {
+            state.consumeInput(character)
+        }
+
+        val isAccepting = state.isAccepting
+        state = StartState(this)
+        return isAccepting
+    }
+}","","0","1655869977604","EmailDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","package Contexts
+
+import States.StartState
+import States.State
+
+// 1. A floating point value can start with either a (1-9) or a 0, or a period (.)
+// 2. If the value starts with a 0 then a period must be the next character
+// 3. The period must be followed by at least one digit (0-9)
+// 4. A floating point value contains exactly one period
+// 5. A floating point number must not contain any chars other than a period or a digit (0-9)
+
+class FloatingPtDetector: Detector() {
+    override var state: State = StartState(this)
+    private var numOfPeriods: Int = 0
+    overriddear isAcAcceptingng = false
+
+    override fun detect(input: String): Boolean {
+        val characters = input
+            .trim()
+            .split("""")
+            .drop(1)
+            .dropLast(1)
+            .toMutableLis
+t)
+
+        for (i in 0 until characters.size) {
+          if (characters[i] == ""."") {
+                numOfPeriods++
+                if (numOfPeriods > 1) {
+                    return false
+                }
+                if (i + 1 < characters.size && characters[i + 1] !in ""0123456789"") {
+                    return false
+                }
+                if (i + 1 == characters.size) {
+                    return false
+                }
+            }
+            if (characters[i] == ""0"" && i == 0) {
+                if (i + 1 < characters.size && characters[i + 1] != ""."") {
+                    return false
+                }
+                if (i + 1 == characters.size) {
+                    return false
+                }
+            }
+              if (characters[i] == ""."") {
+                nuAcceptingriods++
+                if (numOfPeriods > 1) {
+                    return fif (numOfPeriods < 1) {
+            return false
+        }
+        return isAccepting      }
+                if (i + 1 < characters.size && characters[i + 1] !in ""0123456789"") {
+                    return false
+                }
+                if (i + 1 == characters.size) {
+                    return false
+                }
+            }
+            if (characters[i] == ""0"" && i == 0) {
+                if (i + 1 < characters.size && characters[i + 1] != ""."") {
+                    return false
+                }
+                if$
+            }(i + 1 == cha{$
+                    return false
+                }
+            }            state.consumeInput(characters[i]$
+            isAccepting = state.isAccepting
+            state = StartState(this)
+        }
+        if (numOfPeriods < 1) {
+            return false
+        }
+        return isAccepting
+    }
+}","0","1655869977705","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","package Contexts
+
+import States.StartState
+import States.State
+
+// 1. A floating point value can start with either a (1-9) or a 0, or a period (.)
+// 2. If the value starts with a 0 then a period must be the next character
+// 3. The period must be followed by at least one digit (0-9)
+// 4. A floating point value contains exactly one period
+// 5. A floating point number must not contain any chars other than a period or a digit (0-9)
+
+class FloatingPtDetector: Detector() {
+    override var state: State = StartState(this)
+    private var numOfPeriods: Int = 0
+    override var isAccepting = false
+
+    override fun detect(input: String): Boolean {
+        val characters = input
+            .trim()
+            .split("""")
+            .drop(1)
+            .dropLast(1)
+            .toMutableList()
+
+        for (i in 0 until characters.size) {
+            if (characters[i] == ""."") {
+                numOfPeriods++
+                if (numOfPeriods > 1) {
+                    return false
+                }
+                if (i + 1 < characters.size && characters[i + 1] !in ""0123456789"") {
+                    return false
+                }
+                if (i + 1 == characters.size) {
+                    return false
+                }
+            }
+            if (characters[i] == ""0"" && i == 0) {
+                if (i + 1 < characters.size && characters[i + 1] != ""."") {
+                    return false
+                }
+                if (i + 1 == characters.size) {
+                    return false
+                }
+            }
+            state.consumeInput(characters[i])
+            isAccepting = state.isAccepting
+            state = StartState(this)
+        }
+        if (numOfPeriods < 1) {
+            return false
+        }
+        return isAccepting
+    }
+}","","0","1655869977705","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","package Contexts
+
+import States.StartState
+import States.State
+
+ters = input
+            .trim()
+            .split("""")
+            .drop(1)
+       
+    override var isAccepting = false
+    override var isAccepting = falseMutableList()
+
+        for (i in 0 until characters.ut(characters[i])
+        }
+
+        val isAccepting = state.isAccepting
+        state = StartState(this)
+               if (characters.isEmpty() || characters.contains(""."") || characters.first() == "" "") {
+            return false
+        }
+
+ return isccepting
+    }
+}","0","1655869977868","IntegerDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","package Contexts
+
+import States.StartState
+import States.State
+
+class IntegerDetector: Detector() {
+    override var state: State = StartState(this)
+    override var isAccepting = false
+
+    override fun detect(input: String): Boolean {
+        val characters = input
+            .trim()
+            .split("""")
+            .drop(1)
+            .dropLast(1)
+            .toMutableList()
+
+        if (characters.isEmpty() || characters.contains(""."") || characters.first() == "" "") {
+            return false
+        }
+
+        for (i in 0 until characters.size) {
+            if (characters[i] == ""0"" && i == 0) {
+                return false
+            }
+            state.consumeInput(characters[i])
+        }
+        isAccepting = state.isAccepting
+        state = StartState(this)
+        return isAccepting
+    }
+}","","0","1655869977868","IntegerDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","package Contexts
+
+import States.StartState
+import States.State
+
+class PasswordDetector: Detector() {
+    override var state: State = StartState(this)
+    override var isAccepting: Boolean = false$
+    override var isAccepting: Boolean
+        get() = TODO(""Not yet implemented"")
+        set(value) {} .drop(1)
+            .dropLast(1)
+            .toMutableList()
+
+        for (character in characters) {
+            state.consumeInput(character)
+        }
+
+        val isAccepting = state.isAccepting
+        state = StartState(this)
+        return isAccepting
+    }
+}","0","1655869977933","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","package Contexts
+
+import States.StartState
+import States.State
+
+class PasswordDetector: Detector() {
+    override var state: State = StartState(this)
+    override var isAccepting: Boolean = false
+
+    override fun detect(input: String): Boolean {
+        val characters = input
+            .trim()
+            .split("""")
+            .drop(1)
+            .dropLast(1)
+            .toMutableList()
+
+        for (character in characters) {
+            state.consumeInput(character)
+        }
+
+        val isAccepting = state.isAccepting
+        state = StartState(this)
+        return isAccepting
+    }
+}","","0","1655869977933","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Enter",,,"1655870406635","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","
+","","64","1655870407544","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","/","","64","1655870407957","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","/",,"65","1655870407962","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","/","","64","1655870408053","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","/",,"66","1655870408055","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Paste",,,"1655870408995","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"p","A complex password is a password that has at least 1 capital letter, at least 1 special character (!@#$%&*), and cannot end with a special character.
+//A password has at least 8 chars",,"66","1655870409228","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","A complex password is a password that has at least 1 capital letter, at least 1 special character (!@#$%&*), and cannot end with a special character.
+//A password has at least 8 chars","","66","1655870409235","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Left",,,"1655870411048","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","1","","66","1655870411237","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","1",,"67","1655870411240","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",".","","67","1655870411569","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k",".",,"68","1655870411574","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","68","1655870411586","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"69","1655870411588","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","2","","221","1655870413015","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","2",,"222","1655870413017","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",".","","222","1655870413025","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k",".",,"223","1655870413030","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","223","1655870413060","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"224","1655870413062","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Enter",,,"1655870421401","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","
+","","589","1655870421408","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","        ","","589","1655870421436","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","597","1655870422275","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"598","1655870422276","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","",". ","67","1655870422324","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","2. ","219","1655870422324","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","","584","1655870422324","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","593","1655870422324","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","2. ","","219","1655870422325","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",". ","","67","1655870422326","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","598","1655870422383","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","f","","598","1655870422384","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","f",,"599","1655870422395","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","599","1655870422466","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","599","1655870422521","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","599","1655870422557","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"600","1655870422559","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","(","","600","1655870422911","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",")","","601","1655870422917","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","(",,"601","1655870422931","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","c","","601","1655870423275","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","c",,"602","1655870423277","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," (c","599","1655870423311","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","599","1655870423312","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," (c","","599","1655870423311","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","602","1655870423406","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","h","","602","1655870423407","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","h",,"603","1655870423411","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","603","1655870423437","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","603","1655870423539","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","a","","603","1655870423540","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","a",,"604","1655870423544","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","604","1655870423579","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","604","1655870423664","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","r","","604","1655870423665","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","r",,"605","1655870423667","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","605","1655870423708","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","605","1655870423759","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","a","","605","1655870423760","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","a",,"606","1655870423761","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","606","1655870423813","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","606","1655870423879","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","c","","606","1655870423880","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","c",,"607","1655870423881","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","607","1655870423913","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","607","1655870424080","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","607","1655870424081","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"608","1655870424083","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","608","1655870424112","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","608","1655870424255","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","e","","608","1655870424256","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","e",,"609","1655870424258","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","r","","609","1655870424290","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","r",,"610","1655870424293","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","610","1655870424341","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","610","1655870424461","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","s","","610","1655870424462","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","s",,"611","1655870424463","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","611","1655870424489","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","611","1655870425173","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",".","","611","1655870425174","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k",".",,"612","1655870425177","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","612","1655870425198","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","612","1655870425979","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","s","","612","1655870425980","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","s",,"613","1655870425981","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","613","1655870426005","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","613","1655870426070","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","613","1655870426071","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"614","1655870426073","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","614","1655870426110","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","614","1655870426288","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","z","","614","1655870426289","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","z",,"615","1655870426291","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","615","1655870426314","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","615","1655870426522","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","e","","615","1655870426523","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","e",,"616","1655870426525","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","616","1655870426556","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","616","1655870426718","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","616","1655870426723","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"617","1655870426724","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","<","","617","1655870427782","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","<",,"618","1655870427784","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","618","1655870427803","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"619","1655870427805","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","8","","619","1655870427963","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","8",,"620","1655870427965","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Apply Copilot Suggestion",,,"1655870428410","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," {
+            return false
+        }","","621","1655870428415","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Enter",,,"1655870429728","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","
+        ","","667","1655870429733","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Enter",,,"1655870436203","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","
+    ","","387","1655870436210","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","p","","392","1655870437423","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","p",,"393","1655870437425","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","
+    p","387","1655870437467","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","
+    p$","","387","1655870437468","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","393","1655870437550","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","r","","393","1655870437551","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","r",,"394","1655870437553","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","394","1655870437574","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","394","1655870437677","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","394","1655870437678","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"395","1655870437679","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","v","","395","1655870437738","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","v",,"396","1655870437741","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","396","1655870437761","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","396","1655870438023","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","a","","396","1655870438024","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","a",,"397","1655870438037","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","397","1655870438045","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"398","1655870438055","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","e","","398","1655870438131","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","e",,"399","1655870438161","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","399","1655870438187","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"400","1655870438192","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","n","","400","1655870438289","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","n",,"401","1655870438291","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","401","1655870438340","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","401","1655870438467","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","u","","401","1655870438468","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","u",,"402","1655870438486","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","402","1655870438524","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","402","1655870438601","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","m","","402","1655870438602","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","m",,"403","1655870438603","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","C","","403","1655870438897","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","C",,"404","1655870438898","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","a","","404","1655870439042","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","a",,"405","1655870439044","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","p","","405","1655870439166","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","p",,"406","1655870439168","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","406","1655870439310","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"407","1655870439311","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","407","1655870439428","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"408","1655870439429","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","a","","408","1655870439555","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","a",,"409","1655870439557","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","l","","409","1655870439639","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","l",,"410","1655870439641","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","C","","410","1655870439819","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","C",,"411","1655870439821","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","h","","411","1655870439956","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","h",,"412","1655870439957","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","a","","412","1655870440014","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","a",,"413","1655870440016","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","r","","413","1655870440135","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","r",,"414","1655870440137","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","a","","414","1655870440224","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","a",,"415","1655870440225","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","c","","415","1655870440344","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","c",,"416","1655870440346","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","416","1655870440515","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"417","1655870440516","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","e","","417","1655870440660","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","e",,"418","1655870440661","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","r","","418","1655870440704","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","r",,"419","1655870440705","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","s","","419","1655870440830","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","s",,"420","1655870440832","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","420","1655870440935","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"421","1655870440936","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","=","","421","1655870441031","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","=",,"422","1655870441033","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","422","1655870441124","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"423","1655870441125","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","-","","423","1655870441280","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","-",,"424","1655870441281","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655870442001","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","-","423","1655870442020","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","0","","423","1655870442060","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","0",,"424","1655870442062","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","424","1655870442096","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Enter",,,"1655870442262","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","424","1655870442267","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","
+    ","","424","1655870442268","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Left",,,"1655870445539","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","v","","400","1655870445683","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","v",,"401","1655870445684","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","v","400","1655870445713","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","v$","","400","1655870445714","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","401","1655870445813","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","a","","401","1655870445814","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","a",,"402","1655870445822","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","r","","402","1655870445903","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","r",,"403","1655870445934","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","403","1655870445967","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"404","1655870445969","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655870448530","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","l","413","1655870448554","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","
+
+","","18","1655870448565","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","
+
+","","66","1655870448565","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","","392","1655870448565","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","l","","417","1655870448565","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655870448704","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","
+
+","18","1655870448710","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","
+
+","64","1655870448710","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","","388","1655870448710","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","al","412","1655870448710","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655870448833","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","t","411","1655870448836","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655870448993","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","i","410","1655870448995","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655870452329","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","Characters","410","1655870452335","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","s","","410","1655870452433","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","s",,"411","1655870452434","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","X.f$","","411","1655870452502","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","X.f$","411","1655870453785","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","p","","420","1655870453785","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","p",,"421","1655870453789","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","r","","421","1655870453826","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","r",,"422","1655870453830","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","422","1655870453920","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"423","1655870453921","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","v","","423","1655870453986","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","v",,"424","1655870453988","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","a","","424","1655870454071","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","a",,"425","1655870454073","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","425","1655870454223","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"426","1655870454225","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","e","","426","1655870454262","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","e",,"427","1655870454263","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","427","1655870454392","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"428","1655870454394","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","v","","428","1655870454481","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","v",,"429","1655870454482","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","a","","429","1655870454580","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","a",,"430","1655870454581","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","r","","430","1655870454675","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","r",,"431","1655870454677","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","431","1655870454829","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"432","1655870454830","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","n","","432","1655870455069","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","n",,"433","1655870455072","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","u","","433","1655870455238","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","u",,"434","1655870455240","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","m","","434","1655870455395","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","m",,"435","1655870455397","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","        ","707","1655870455617","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","S","","435","1655870458808","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","S",,"436","1655870458810","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","p","","436","1655870458957","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","p",,"437","1655870458958","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","e","","437","1655870459065","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","e",,"438","1655870459066","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","c","","438","1655870459207","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","c",,"439","1655870459209","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","439","1655870459285","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"440","1655870459287","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","a","","440","1655870459386","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","a",,"441","1655870459387","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","l","","441","1655870459484","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","l",,"442","1655870459485","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","442","1655870460376","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"443","1655870460377","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","=","","443","1655870460765","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","=",,"444","1655870460770","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","444","1655870461315","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"445","1655870461318","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","0","","445","1655870461603","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","0",,"446","1655870461604","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Enter",,,"1655870465740","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","
+        ","","810","1655870465746","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","819","1655870466381","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"820","1655870466383","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","private var numSpecial = 0","","424","1655870466411","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","X.f$","","411","1655870466410","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","private var numSpecial = 0","424","1655870466410","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","","789","1655870466410","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","798","1655870466410","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","X.f$","411","1655870466411","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655870466975","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","i$","819","1655870466991","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Enter",,,"1655870467195","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","        
+","","811","1655870467199","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","828","1655870467479","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"829","1655870467480","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","829","1655870467506","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","829","1655870467612","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","f","","829","1655870467613","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","f",,"830","1655870467614","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","830","1655870467633","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","830","1655870467712","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","830","1655870467715","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"831","1655870467717","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","(","","831","1655870467881","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",")","","832","1655870467884","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","(",,"832","1655870467889","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Apply Copilot Suggestion",,,"1655870469688","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","",")","832","1655870469692","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","numCaps == 0 || numSpecial == 0) {
+            return false
+        }","","832","1655870469693","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655870472718","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","=","841","1655870472721","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655870472861","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","=","840","1655870472863","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","<","","840","1655870473051","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","<",,"841","1655870473052","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655870474353","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","0","842","1655870474356","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","1","","842","1655870474477","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","1",,"843","1655870474479","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","843","1655870474508","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","843","1655870477201","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","<","","858","1655870477201","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",">","","863","1655870477202","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","<",,"863","1655870477203","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","== 0","859","1655870477326","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","859","1655870477333","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"860","1655870477335","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","1",,"861","1655870477406","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","1","","860","1655870477404","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","843","1655870477446","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","862","1655870477446","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","843","1655870477447","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655870484140","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$>","861","1655870484143","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","        ","811","1655870485974","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Enter",,,"1655870523047","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","        
+","","759","1655870523055","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","    ","","767","1655870523063","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","771","1655870523397","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"772","1655870523400","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","        i
+    ","763","1655870523442","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","        ","","811","1655870523442","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","        ","811","1655870523443","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i$
+            ","","771","1655870523443","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","772","1655870523521","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","f","","772","1655870523522","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","f",,"773","1655870523524","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","773","1655870523549","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","773","1655870523684","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","773","1655870523688","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"774","1655870523690","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","(","","774","1655870523786","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",")","","775","1655870523788","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","(",,"775","1655870523793","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","c","","775","1655870523990","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","c",,"776","1655870523992","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," (c","773","1655870524021","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","773","1655870524022","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," (c","","773","1655870524021","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","776","1655870524096","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","h","","776","1655870524097","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","h",,"777","1655870524100","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","777","1655870524164","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","777","1655870524205","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","a","","777","1655870524206","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","a",,"778","1655870524207","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","778","1655870524233","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","778","1655870524341","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","r","","778","1655870524342","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","r",,"779","1655870524344","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","779","1655870524360","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","779","1655870524427","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","a","","779","1655870524428","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","a",,"780","1655870524429","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","780","1655870524454","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","780","1655870524543","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","c","","780","1655870524544","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","c",,"781","1655870524545","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","781","1655870524574","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","781","1655870524751","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","781","1655870524752","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"782","1655870524756","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","782","1655870524782","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","732","1655870530342","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","character","732","1655870530340","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","773","1655870530340","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"733","1655870530343","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","
+
+","","18","1655870530353","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","
+
+","","66","1655870530353","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","i","736","1655870530353","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","character","","736","1655870530354","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","
+
+","18","1655870530397","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","
+
+","64","1655870530397","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","character","732","1655870530397","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i$","","732","1655870530398","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Right",,,"1655870531458","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Right",,,"1655870531730","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Right",,,"1655870532311","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","733","1655870533047","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","737","1655870533048","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"737","1655870533050","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","0","","737","1655870533192","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","0",,"738","1655870533193","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","738","1655870533262","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","738","1655870533285","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","738","1655870533286","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"739","1655870533286","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","u","","739","1655870533478","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","u",,"740","1655870533479","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","738","1655870533512","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","742","1655870533513","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","738","1655870533513","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","740","1655870533692","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","n","","740","1655870533693","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","n",,"741","1655870533696","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","742","1655870533724","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","741","1655870533738","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","741","1655870533739","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"742","1655870533742","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","743","1655870533781","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","742","1655870533853","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","742","1655870533854","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"743","1655870533856","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","744","1655870533883","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","743","1655870533932","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","l","","743","1655870533933","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","l",,"744","1655870533936","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","745","1655870533965","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","745","1655870535940","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",".","","755","1655870535940","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k",".",,"756","1655870535944","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","756","1655870535960","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","756","1655870536041","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","s","","756","1655870536042","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","s",,"757","1655870536043","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","757","1655870536076","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","757","1655870536175","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","757","1655870536176","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"758","1655870536177","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","758","1655870536198","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","758","1655870536231","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","z","","758","1655870536232","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","z",,"759","1655870536233","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","759","1655870536255","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","759","1655870536408","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","e","","759","1655870536409","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","e",,"760","1655870536414","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","760","1655870536447","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","760","1655870540665","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","e","","787","1655870540665","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","e",,"788","1655870540666","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","r","","788","1655870540703","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","r",,"789","1655870540705","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","789","1655870540742","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","789","1655870540852","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","s","","789","1655870540853","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","s",,"790","1655870540854","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","790","1655870540877","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","790","1655870541394","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","[","","790","1655870541395","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","]","","791","1655870541398","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","[",,"791","1655870541402","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","791","1655870541649","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"792","1655870541651","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","[i","790","1655870541678","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","790","1655870541679","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","[i","","790","1655870541678","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","792","1655870543156","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","793","1655870543157","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"794","1655870543157","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655870548914","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","793","1655870548919","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Apply Copilot Suggestion",,,"1655870554591","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","",")","793","1655870554594","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",".isUpperCase()) {
+                numCaps++
+            }","","793","1655870554595","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Create extension function 'String.isUpperCase'",,,"1655870607945","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Create extension function 'String.isUpperCase'",,,"1655870610127","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","private fun<> String.isUpperCase(): Any {
+
+}","","1096","1655870610173","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","
+
+","","1096","1655870610177","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","
+","","1142","1655870610183","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","1109","1655870610222","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," <>","1109","1655870610242","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","Any","1132","1655870610243","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","Boolean","","1132","1655870610286","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","a","","1109","1655870610302","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","a","1109","1655870610323","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Tab",,,"1655870615036","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","    ","","1142","1655870615039","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Apply Copilot Suggestion",,,"1655870619057","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","return this == this.toUpperCase()","","1146","1655870619059","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655870626270","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","his.toUpperCase()","1162","1655870626273","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655870626583","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","t","1161","1655870626586","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655870634346","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","1160","1655870634349","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655870635665","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","=","1159","1655870635668","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655870636105","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","=","1158","1655870636108","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655870636315","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","1157","1655870636317","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655870636504","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","s","1156","1655870636507","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655870636636","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","i","1155","1655870636639","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655870636773","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","h","1154","1655870636776","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655870636904","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","t","1153","1655870636907","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655870637046","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","1152","1655870637048","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655870637198","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","n","1151","1655870637202","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655870637345","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","r","1150","1655870637348","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655870637503","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","u","1149","1655870637506","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655870637659","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","t","1148","1655870637661","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655870637833","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","e","1147","1655870637835","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655870638132","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","r","1146","1655870638135","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","c","","1146","1655870642018","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","c",,"1147","1655870642020","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","].isUpperCase()) {
+                numCaps++
+            }","792","1655870642048","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$])","","792","1655870642049","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","","1087","1655870642048","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1092","1655870642049","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$])","792","1655870642049","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","].isUpperCase()) {
+                numCaps++
+            }","","792","1655870642050","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655870642342","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","c$","1146","1655870642346","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","S","","1146","1655870643146","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","S",,"1147","1655870643147","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1147","1655870643177","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1147","1655870643391","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","1147","1655870643392","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"1148","1655870643393","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1148","1655870643436","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1148","1655870643464","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","r","","1148","1655870643465","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","r",,"1149","1655870643468","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1149","1655870643529","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1149","1655870643560","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","1149","1655870643561","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"1150","1655870643562","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","n","","1150","1655870643620","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","n",,"1151","1655870643623","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","g","","1151","1655870643660","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","g",,"1152","1655870643662","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1152","1655870643845","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1152","1655870643977","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",".","","1152","1655870643978","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k",".",,"1153","1655870643981","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1153","1655870644015","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1153","1655870644281","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","1153","1655870644282","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"1154","1655870644285","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1154","1655870644336","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1154","1655870644398","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","o","","1154","1655870644399","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","o",,"1155","1655870644405","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1155","1655870644466","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1155","1655870645635","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","C","","1155","1655870645636","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","C",,"1156","1655870645679","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1156","1655870645701","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1156","1655870645788","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","h","","1156","1655870645789","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","h",,"1157","1655870645790","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1157","1655870645804","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1157","1655870645899","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","a","","1157","1655870645900","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","a",,"1158","1655870645902","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1158","1655870645917","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1158","1655870646049","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","r","","1158","1655870646050","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","r",,"1159","1655870646051","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1159","1655870646068","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Apply Copilot Suggestion",,,"1655870649307","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1159","1655870649311","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","Array().forEach {
+        if (it.isUpperCase()) {
+            return true
+        }
+    }","","1159","1655870649312","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655870656828","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","private fun String.isUpperCase(): Boolean {
+    String.toCharArray().forEach {
+        if (it.isUpperCase()) {
+            return true
+        }
+    }
+}","1098","1655870656834","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655870657209","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","
+","1098","1655870657214","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655870657540","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","
+","1097","1655870657549","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Enter",,,"1655870675487","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","
+","","1097","1655870675491","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","f","","1098","1655870677490","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","f",,"1099","1655870677491","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1099","1655870677518","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1099","1655870677662","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","u","","1099","1655870677663","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","u",,"1100","1655870677678","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","n","","1100","1655870677737","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","n",,"1101","1655870677750","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","1101","1655870677841","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"1102","1655870677842","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","S","","1102","1655870679114","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","S",,"1103","1655870679116","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","X.f()$","","1103","1655870679171","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","X.f()$","1103","1655870679301","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","1103","1655870679302","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"1104","1655870679304","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","X.f()$","","1104","1655870679336","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","X.f()$","1104","1655870679377","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","r","","1104","1655870679378","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","r",,"1105","1655870679379","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","X.f()$","","1105","1655870679397","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","X.f()$","1105","1655870679483","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","1105","1655870679484","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"1106","1655870679485","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","X.f()$","","1106","1655870679501","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","X.f()$","1106","1655870679541","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","n","","1106","1655870679542","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","n",,"1107","1655870679544","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","X.f()$","","1107","1655870679562","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","X.f()$","1107","1655870679726","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","g","","1107","1655870679727","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","g",,"1108","1655870679728","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","X.f()$","","1108","1655870679741","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","X.f()$","1108","1655870680448","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",".","","1108","1655870680449","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k",".",,"1109","1655870680455","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","X.f()$","","1109","1655870680474","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","X.f()$","1109","1655870680810","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","1109","1655870680811","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"1110","1655870680838","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","X.f()$","","1110","1655870680860","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","X.f()$","1110","1655870680923","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","o","","1110","1655870680924","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","o",,"1111","1655870680930","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655870681312","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","o","1110","1655870681314","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655870681440","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","t","1109","1655870681443","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","1109","1655870681589","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"1110","1655870681590","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","X.f()$","","1110","1655870681607","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","X.f()$","1110","1655870681720","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","s","","1110","1655870681721","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","s",,"1111","1655870681750","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","s","1110","1655870681771","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","X.is$","","1110","1655870681772","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","iX.","1109","1655870681771","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1111","1655870681903","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","U","","1111","1655870681904","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","U",,"1112","1655870681904","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","p","","1112","1655870682057","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","p",,"1113","1655870682058","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","p","","1113","1655870682195","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","p",,"1114","1655870682196","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","e","","1114","1655870682256","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","e",,"1115","1655870682257","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","r","","1115","1655870682310","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","r",,"1116","1655870682312","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","C","","1116","1655870682794","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","C",,"1117","1655870682795","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","a","","1117","1655870682989","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","a",,"1118","1655870682990","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","s","","1118","1655870683132","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","s",,"1119","1655870683132","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","e","","1119","1655870683863","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","e",,"1120","1655870683865","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","(","","1120","1655870684061","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",")","","1121","1655870684064","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","(",,"1121","1655870684067","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k",")",,"1122","1655870684138","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Apply Copilot Suggestion",,,"1655870684768","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",": Boolean {
+    return this.toUpperCase() == this
+}","","1122","1655870684773","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","this.toUpperCase() == this","1145","1655870689768","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","s",,"1146","1655870689771","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","s","","1145","1655870689770","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1146","1655870689806","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1146","1655870689974","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","1146","1655870689975","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"1147","1655870689976","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1147","1655870689992","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1147","1655870690065","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","r","","1147","1655870690066","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","r",,"1148","1655870690066","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1148","1655870690086","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1148","1655870690236","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","1148","1655870690237","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"1149","1655870690241","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","n","","1149","1655870690293","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","n",,"1150","1655870690300","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1150","1655870690377","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1150","1655870690395","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","g","","1150","1655870690396","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","g",,"1151","1655870690401","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1151","1655870690427","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1151","1655870690441","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","1151","1655870690454","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"1152","1655870690456","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","1152","1655870690552","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"1153","1655870690553","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","1153","1655870690572","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","1153","1655870690648","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","n","","1153","1655870690649","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","n",,"1154","1655870690654","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","1154","1655870690736","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"1155","1655870690738","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Apply Copilot Suggestion",,,"1655870692117","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","""ABCDEFGHIJKLMNOPQRSTUVWXYZ""","","1155","1655870692119","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655870695572","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","s","1145","1655870695575","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","S","","1145","1655870695714","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","S",,"1146","1655870695715","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","1146","1655870695736","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","S tring","1145","1655870698072","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","1145","1655870698075","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"1146","1655870698076","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","1147","1655870698099","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","1146","1655870698170","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","h","","1146","1655870698171","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","h",,"1147","1655870698172","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","1148","1655870698224","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","1147","1655870698248","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","1147","1655870698249","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"1148","1655870698249","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","1149","1655870698266","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","1148","1655870698317","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","s","","1148","1655870698318","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","s",,"1149","1655870698319","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1149","1655870698339","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","s",,"892","1655870707153","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","s","","891","1655870707151","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","","894","1655870707152","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","","1135","1655870707151","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1150","1655870707151","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","s","891","1655870707186","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","s$","","891","1655870707186","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","892","1655870707260","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","[","","892","1655870707261","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","]","","893","1655870707262","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","[",,"893","1655870707265","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","893","1655870707627","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"894","1655870707629","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Enter",,,"1655870711374","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","    
+        ","","859","1655870711378","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","863","1655870711689","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"864","1655870711690","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","864","1655870711710","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","864","1655870712542","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","f","","864","1655870712543","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","f",,"865","1655870712548","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","865","1655870712667","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"866","1655870712669","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","(","","866","1655870712877","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",")","","867","1655870712879","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","(",,"867","1655870712884","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","c","","867","1655870713186","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","c",,"868","1655870713187","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","f (c","864","1655870713207","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","864","1655870713208","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","f (c","","864","1655870713208","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","868","1655870713383","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","h","","868","1655870713384","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","h",,"869","1655870713393","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","869","1655870713544","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","869","1655870713640","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","a","","869","1655870713641","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","a",,"870","1655870713645","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","870","1655870713681","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Choose Lookup Item Replace",,,"1655870714023","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","870","1655870714027","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","racters","","870","1655870714053","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","[","","877","1655870715183","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","]","","878","1655870715186","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","[",,"878","1655870715189","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","878","1655870715380","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"879","1655870715381","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Right",,,"1655870715826","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",".","","880","1655870716790","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k",".",,"881","1655870716795","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","881","1655870716882","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","881","1655870717746","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","881","1655870717747","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"882","1655870717751","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","882","1655870717816","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","882","1655870717925","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","s","","882","1655870717926","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","s",,"883","1655870717928","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","883","1655870717949","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","883","1655870718236","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","S","","883","1655870718237","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","S",,"884","1655870718258","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","884","1655870718284","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Apply Copilot Suggestion",,,"1655870719219","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$)","884","1655870719222","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","pecial()) {
+                numSpecial++
+            }","","884","1655870719223","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Enter",,,"1655870721903","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","
+","","1275","1655870721907","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Enter",,,"1655870722040","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","
+","","1276","1655870722044","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","f","","1277","1655870722164","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","f",,"1278","1655870722165","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","pecial()) {
+                numSpecial++
+            }","884","1655870722188","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$)","","884","1655870722189","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","","1225","1655870722188","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1226","1655870722189","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$)","884","1655870722189","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","pecial()) {
+                numSpecial++
+            }","","884","1655870722190","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1278","1655870722328","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","u","","1278","1655870722329","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","u",,"1279","1655870722336","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","n","","1279","1655870722417","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","n",,"1280","1655870722424","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","1280","1655870722504","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"1281","1655870722505","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Apply Copilot Suggestion",,,"1655870723548","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","String.isSpecial(): Boolean {
+    return this in ""!@#$%&*""
+}","","1281","1655870723551","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655870727241","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","!@#$%&*","1331","1655870727244","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","~","","1331","1655870727793","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","~",,"1332","1655870727794","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","`","","1332","1655870728283","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","`",,"1333","1655870728285","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","!","","1333","1655870728882","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","!",,"1334","1655870728883","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","@","","1334","1655870729449","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","@",,"1335","1655870729451","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","#","","1335","1655870729766","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","#",,"1336","1655870729768","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1336","1655870730045","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","$",,"1337","1655870730047","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","%","","1337","1655870730541","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","%",,"1338","1655870730542","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","^","","1338","1655870730876","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","^",,"1339","1655870730877","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","&","","1339","1655870731254","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","&",,"1340","1655870731257","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","*","","1340","1655870731592","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","*",,"1341","1655870731593","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","(","","1341","1655870731904","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","(",,"1342","1655870731908","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",")","","1342","1655870732126","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k",")",,"1343","1655870732129","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","_","","1343","1655870732431","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","_",,"1344","1655870732432","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","+","","1344","1655870732776","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","+",,"1345","1655870732777","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","-","","1345","1655870733189","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","-",,"1346","1655870733190","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","=","","1346","1655870733529","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","=",,"1347","1655870733530","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","[","","1347","1655870734073","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","[",,"1348","1655870734076","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655870734767","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","[","1347","1655870734770","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","{","","1347","1655870735123","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","{",,"1348","1655870735126","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","}","","1348","1655870735377","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","}",,"1349","1655870735378","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","|","","1349","1655870735614","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","|",,"1350","1655870735618","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","[","","1350","1655870736127","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","[",,"1351","1655870736131","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","]","","1351","1655870736295","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","]",,"1352","1655870736296","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","\","","1352","1655870736459","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","\",,"1353","1655870736460","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",":","","1353","1655870737441","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k",":",,"1354","1655870737444","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","""",,"1355","1655870737637","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",";","","1355","1655870738176","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k",";",,"1356","1655870738177","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","'","","1356","1655870738329","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","'",,"1357","1655870738331","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","'","","1357","1655870738330","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","<","","1357","1655870739224","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","<",,"1358","1655870739226","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",">","","1358","1655870739472","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k",">",,"1359","1655870739474","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","?","","1359","1655870739692","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","?",,"1360","1655870739693","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",",","","1360","1655870740316","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k",",",,"1361","1655870740321","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",".","","1361","1655870740569","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k",".",,"1362","1655870740573","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","/","","1362","1655870740835","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","/",,"1363","1655870740836","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Left",,,"1655870744363","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Left",,,"1655870744510","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Left",,,"1655870744704","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Left",,,"1655870744826","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Left",,,"1655870744948","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Left",,,"1655870745106","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Left",,,"1655870745274","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Left",,,"1655870745434","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Left",,,"1655870745643","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Left",,,"1655870747416","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","\","","1353","1655870747977","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","\",,"1354","1655870747978","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Right",,,"1655870748581","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","\","","1355","1655870749763","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","\",,"1356","1655870749764","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","""","","1366","1655870755116","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","""",,"1367","1655870755118","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","EditorChange",,,"1655870793609","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","EditorChange",,,"1655871153008","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","EditorChange",,,"1655871158872","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Enter",,,"1655871165076","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","            
+","","939","1655871165082","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","951","1655871166003","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"952","1655871166004","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","952","1655871166026","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","952","1655871166120","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","f","","952","1655871166121","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","f",,"953","1655871166122","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","953","1655871166140","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","953","1655871166223","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","953","1655871166227","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"954","1655871166228","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","(","","954","1655871166492","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",")","","955","1655871166495","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","(",,"955","1655871166499","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","c","","955","1655871170968","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","c",,"956","1655871170970","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","h","","956","1655871171078","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","h",,"957","1655871171080","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","a","","957","1655871171180","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","a",,"958","1655871171181","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","958","1655871171466","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"959","1655871171467","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," (chat","953","1655871171487","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","953","1655871171488","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," (chat","","953","1655871171487","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655871171767","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","t$","958","1655871171769","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","r","","958","1655871171902","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","r",,"959","1655871171903","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","a","","959","1655871172020","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","a",,"960","1655871172021","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","c","","960","1655871172162","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","c",,"961","1655871172163","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","961","1655871172352","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"962","1655871172353","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","e","","962","1655871172513","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","e",,"963","1655871172514","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","r","","963","1655871172558","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","r",,"964","1655871172559","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","s","","964","1655871172694","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","s",,"965","1655871172695","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","[","","965","1655871172997","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","]","","966","1655871172999","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","[",,"966","1655871173001","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","966","1655871173260","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"967","1655871173261","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Right",,,"1655871174118","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",".","","968","1655871182817","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k",".",,"969","1655871182823","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","969","1655871182883","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","969","1655871183901","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","969","1655871183902","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"970","1655871183952","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","s","","970","1655871184045","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","s",,"971","1655871184056","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Choose Lookup Item Replace",,,"1655871184504","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","Special","","971","1655871184510","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","()","","978","1655871184531","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","980","1655871185106","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"981","1655871185108","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","&","","981","1655871185571","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","&",,"982","1655871185575","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","&","","981","1655871185683","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","&",,"983","1655871185688","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","983","1655871185802","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"984","1655871185803","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Apply Copilot Suggestion",,,"1655871188632","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","",")","984","1655871188634","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i == characters.size - 1) {
+                return false
+            }","","984","1655871188635","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","EditorChange",,,"1655871234920","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","EditorChange",,,"1655871236282","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Enter",,,"1655871238356","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","            
+","","1055","1655871238363","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Undefined",,,"1655871300628","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Undefined",,,"1655871300638","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Undefined",,,"1655871300639","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Undefined",,,"1655871300639","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","EditorChange",,,"1655871305668","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","EditorChange",,,"1655871311235","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","EditorChange",,,"1655871324595","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","            ","1055","1655871327987","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","EditorChange",,,"1655871541442","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Cut",,,"1655871546435","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"c","val isAccepting = state.isAccepting
+        state = StartState(this)",,"1202","1655871546481","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","val isAccepting = state.isAccepting
+        state = StartState(this)","1202","1655871546571","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Enter",,,"1655871548197","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","    
+        ","","1110","1655871548200","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Paste",,,"1655871548438","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"p","val isAccepting = state.isAccepting
+        state = StartState(this)",,"1114","1655871548450","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","val isAccepting = state.isAccepting
+        state = StartState(this)","","1114","1655871548453","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","    ","","1158","1655871548467","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655871551520","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","val ","1114","1655871551530","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","        ","1275","1655871558090","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Undo Backspace",,,"1655871598290","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Undo Backspace",,,"1655871598532","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","        ","","1275","1655871598545","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","val ","","1114","1655871598553","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Undo Paste",,,"1655871598717","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Undo Paste",,,"1655871598968","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","    ","1158","1655871598970","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","val isAccepting = state.isAccepting
+        state = StartState(this)","1114","1655871598972","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Undo Typing",,,"1655871599208","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","        
+    ","1106","1655871599212","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Undo last operation",,,"1655871599492","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Undo last operation",,,"1655871599829","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","val isAccepting = state.isAccepting
+        state = StartState(this)","","1202","1655871599832","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","            ","","1055","1655871599834","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655871603291","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","val ","1214","1655871603302","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","            ","1055","1655871610243","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","//","","1481","1655872827667","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","//","","1424","1655872827669","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","//","","1390","1655872827671","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","//","","1389","1655872827673","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","//","","1387","1655872827675","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","//","","1339","1655872827677","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","//","","1303","1655872827679","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","//","1493","1655872836621","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","//","1434","1655872836622","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","//","1398","1655872836624","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","//","1395","1655872836626","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","//","1341","1655872836629","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","//","1391","1655872836627","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","//","1303","1655872836630","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"c","fun String.isUpperCase(): Boolean {
+    return this in ""ABCDEFGHIJKLMNOPQRSTUVWXYZ""
+}
+
+fun String.isSpecial(): Boolean {
+    return this in ""~`!@#$%^&*()_+-={}|[]\\:\"";'<>?,./'""
+}",,"1303","1655872839602","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Paste",,,"1655872841274","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"p","fun String.isUpperCase(): Boolean {
+    return this in ""ABCDEFGHIJKLMNOPQRSTUVWXYZ""
+}
+
+fun String.isSpecial(): Boolean {
+    return this in ""~`!@#$%^&*()_+-={}|[]\\:\"";'<>?,./'""
+}",,"1299","1655872841277","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","}fun String.isUpperCase(): Boolean {
+    return this in ""ABCDEFGHIJKLMNOPQRSTUVWXYZ""
+}
+
+fun String.isSpecial(): Boolean {
+    return this in ""~`!@#$%^&*()_+-={}|[]\\:\"";'<>?,./'""
+","","1298","1655872841280","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","    ","","1335","1655872841310","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","    ","","1387","1655872841312","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","    ","","1394","1655872841313","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","    ","","1432","1655872841314","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","    ","","1493","1655872841316","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Move Selection",,,"1655872841328","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","fun String.isUpperCase(): Boolean {
+    return this in ""ABCDEFGHIJKLMNOPQRSTUVWXYZ""
+}
+
+fun String.isSpecial(): Boolean {
+    return this in ""~`!@#$%^&*()_+-={}|[]\\:\"";'<>?,./'""
+}","1502","1655872841333","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Enter",,,"1655872842787","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","
+    ","","1299","1655872842992","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655872849966","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","
+","1506","1655872849972","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655872850129","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","
+","1505","1655872850134","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","x","","1505","1655874213170","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","x",,"1506","1655874213236","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1506","1655874213310","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655874214090","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","x$","1505","1655874214093","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Undefined",,,"1655874239726","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Undefined",,,"1655874239728","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Undefined",,,"1655874239729","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Undefined",,,"1655874239730","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Undefined",,,"1655874241476","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Undefined",,,"1655874241477","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Undefined",,,"1655874241479","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Undefined",,,"1655874241480","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Undefined",,,"1655874242587","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Undefined",,,"1655874242588","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Undefined",,,"1655874242589","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Undefined",,,"1655874242590","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","EditorChange",,,"1655879115200","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","EditorChange",,,"1655879124986","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","EditorChange",,,"1655879129293","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","EditorChange",,,"1655879130833","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",

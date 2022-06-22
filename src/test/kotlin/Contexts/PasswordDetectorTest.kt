@@ -15,12 +15,6 @@ internal class PasswordDetectorTest {
     @Test
     fun detect2T() {
         val passwordDetector = PasswordDetector()
-        assertTrue(passwordDetector.detect("1234567*9"))
-    }
-
-    @Test
-    fun detect3T() {
-        val passwordDetector = PasswordDetector()
         assertTrue(passwordDetector.detect("asdpoihj;loikjasdf;ijp;lij2309jasd;lfkm20ij@aH"))
     }
 
