@@ -1,13 +1,15 @@
 package States
 
 import Contexts.Detector
+import Contexts.EmailDetector
+import Contexts.PasswordDetector
 
 class ValidCharacterState(detector: Detector): State(detector) {
-    override val isAccepting: Boolean
-        get() = true
+    override var isAccepting = false
 
     override fun consumeInput(string: String) {
-        if (string !in "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ)") {
+        isAccepting = detector is EmailDetector
+        if (string !in "~`!@#$%^&*()_+-=[]{}|;':\",/<>?") {
             detector.state = InvalidState(detector)
         }
     }

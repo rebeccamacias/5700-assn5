@@ -46,3 +46,7 @@
 /src/test/kotlin/Contexts/EmailDetectorTest.kt
 /src/test/kotlin/Contexts/PasswordDetectorTest.kt
 /src/main/kotlin/States/ValidStartState.kt
+/src/main/kotlin/States/ValidIntNumberState.kt
+/src/main/kotlin/States/ValidLeterState.kt
+/src/main/kotlin/States/ValidLetterState.kt
+/src/main/kotlin/States/State.kt

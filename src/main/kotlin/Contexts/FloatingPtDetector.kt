@@ -12,7 +12,7 @@ import States.State
 class FloatingPtDetector: Detector() {
     override var state: State = StartState(this)
     private var numOfPeriods: Int = 0
-    private var isAccepting = false
+    override var isAccepting = false
 
     override fun detect(input: String): Boolean {
         val characters = input
