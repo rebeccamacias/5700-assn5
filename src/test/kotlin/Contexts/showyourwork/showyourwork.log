@@ -5749,3 +5749,474 @@ internal class PasswordDetectorTest {
 "a","Close Active Editor",,,"1655785747430","PasswordDetectorTest.kt","1.1.3 for 2021-2022 @t1",
 "a","Reload From Disk",,,"1655785759448","PasswordDetectorTest.kt","1.1.3 for 2021-2022 @t1",
 "a","Reload From Disk",,,"1655785786103","PasswordDetectorTest.kt","1.1.3 for 2021-2022 @t1",
+"e","","package Contexts
+
+import org.junit.jupiter.api.Assertions.*
+
+internal class IntegerDetectorTest {
+
+    @org.junit.jupiter.api.Test
+    fun getState() {
+    }
+
+    @org.junit.jupiter.api.Test
+    fun detect() {
+    }
+}","0","1655859175670","IntegerDetectorTest.java","1.1.3 for 2021-2022 @t1",
+"e","","","0","1655859175670","IntegerDetectorTest.java","1.1.3 for 2021-2022 @t1",
+"e","","package Contexts
+
+import org.junit.jupiter.api.Assertions.*
+import org.junit.jupiter.api.Test
+
+internal class IntegerDetectorTest {
+
+//    @Test
+//    fun getState() {
+//    }
+
+    @Test
+    fun detect123() {
+        val detector = IntegerDetector()
+        val result = detector.detect(""123"")
+        assertEquals(true, result)
+    }
+
+    @Test
+    fun detect1() {
+        val detector = IntegerDetector()
+        val result = detector.detect(""1"")
+        assertEquals(true, result)
+    }
+
+    @Test
+    fun detect345345() {
+        val detector = IntegerDetector()
+        val result = detector.detect(""345345"")
+        assertEquals(true, result)
+    }
+     @Test
+    fun detectEmptyString() {
+        val detector = IntegerDetector()
+        val result = detector.detect("""")
+        assertEquals(false, result)
+    }f
+    @Test
+    fun detect0123() {
+        val detector = IntegerDetector()
+        val result = detector.detect(""0123"")
+        assertEquals(false, result)
+    }
+
+    @Test
+    fun detect132a() {
+        val detector = IntegerDetector()
+        val result = detector.detect(""132a"")
+        assertEquals(false, result)
+    }
+
+    @Test
+    fun detect0() {
+        val detector = IntegerDetector()
+        val result = detector.detect(""0"")
+        assertEquals(false, result)
+    }
+()$ @Test
+    fun detect123() {
+        val detector = IntegerDetector()
+        assertEquals(true, detector.detect(""123""))
+    }
+
+    @Test
+    fun detect0123() {
+        val detector = IntegerDetector()
+        assertEquals(false, detector.detect(""0123""))
+    }
+
+    @Test
+    fun detect123a4() {
+        val detector = IntegerDetector()
+        assertEquals(false, detector.detect(""123a4""))
+    }
+
+    @Test
+    fun detect6256356() {
+        val detector = IntegerDetector()
+        assertEquals(true, detector.detect(""6256356""))
+    }
+
+    @Test()
+    fun detect1() {
+        val detector = IntegerDetector()
+        assertEquals(true, detector.detect(""1""))
+      
+    @Test()
+    c$","0","1655859175739","IntegerDetectorTest.kt","1.1.3 for 2021-2022 @t1",
+"e","package Contexts
+
+import org.junit.jupiter.api.Assertions.*
+import org.junit.jupiter.api.Test
+
+internal class IntegerDetectorTest {
+
+//    @Test
+//    fun getState() {
+//    }
+
+    @Test
+    fun detect123() {
+        val detector = IntegerDetector()
+        val result = detector.detect(""123"")
+        assertEquals(true, result)
+    }
+
+    @Test
+    fun detect1() {
+        val detector = IntegerDetector()
+        val result = detector.detect(""1"")
+        assertEquals(true, result)
+    }
+
+    @Test
+    fun detect345345() {
+        val detector = IntegerDetector()
+        val result = detector.detect(""345345"")
+        assertEquals(true, result)
+    }
+
+    @Test
+    fun detectEmptyString() {
+        val detector = IntegerDetector()
+        val result = detector.detect("""")
+        assertEquals(false, result)
+    }
+
+    @Test
+    fun detect0123() {
+        val detector = IntegerDetector()
+        val result = detector.detect(""0123"")
+        assertEquals(false, result)
+    }
+
+    @Test
+    fun detect132a() {
+        val detector = IntegerDetector()
+        val result = detector.detect(""132a"")
+        assertEquals(false, result)
+    }
+
+    @Test
+    fun detect0() {
+        val detector = IntegerDetector()
+        val result = detector.detect(""0"")
+        assertEquals(false, result)
+    }
+}","","0","1655859175739","IntegerDetectorTest.kt","1.1.3 for 2021-2022 @t1",
+"e","","package Contexts
+
+import org.junit.jupiter.api.Test
+
+import org.junit.jupiter.api.Assertions.*
+
+internal class BinaryDetectorTest {
+
+    @Test
+    fun detect() {
+    }
+}","0","1655859175863","BinaryDetectorTest.java","1.1.3 for 2021-2022 @t1",
+"e","","","0","1655859175863","BinaryDetectorTest.java","1.1.3 for 2021-2022 @t1",
+"e","","package Contexts
+
+import org.junit.jupiter.api.Test
+
+import org.junit.jupiter.api.Assertions.*
+
+internal class EmailDetectorTest {
+
+    @Test
+    fun detect() {
+    }
+}","0","1655859175932","EmailDetectorTest.java","1.1.3 for 2021-2022 @t1",
+"e","","","0","1655859175932","EmailDetectorTest.java","1.1.3 for 2021-2022 @t1",
+"e","","package Contexts
+
+import org.junit.jupiter.api.Test
+
+import org.junit.jupiter.api.Assertions.*
+
+internal class FloatingPtDetectorTest {
+
+    @Test
+    fun detect() {
+    }
+}","0","1655859175998","FloatingPtDetectorTest.java","1.1.3 for 2021-2022 @t1",
+"e","","","0","1655859175998","FloatingPtDetectorTest.java","1.1.3 for 2021-2022 @t1",
+"e","","package Contexts
+
+import org.junit.jupiter.api.Test
+
+import org.junit.jupiter.api.Assertions.*
+
+internal class PasswordDetectorTest {
+
+    @Test
+    fun detect() {
+    }
+}","0","1655859176053","PasswordDetectorTest.java","1.1.3 for 2021-2022 @t1",
+"e","","","0","1655859176053","PasswordDetectorTest.java","1.1.3 for 2021-2022 @t1",
+"e","","package Contexts
+
+import org.junit.jupiter.api.Test
+
+import org.junit.jupiter.api.Assertions.*
+
+internal class FloatingPtDetectorTest {
+
+    @Test
+    fun detect1T() {
+        val detector = FloatingPtDetector()
+        val result = detector.detect(""1.0"")
+        assertEquals(true, result)
+    }
+
+    @Test
+    fun detect2T() {
+        val detector = FloatingPtDetector()
+        val result = detector.detect(""123.340.20000     assertEquals(true, result)
+    }
+
+    @Test
+    fun detect3() {
+        val detector = FloatingPtDetector()
+        val result = detector.detect(""0.20000"")
+        assertEquals(true, result)
+    }
+
+    @Test
+    fun detect()X.f()$ {
+        val detector = FloatingPtDetector()
+        val result = detector.detect(""12349871234.12340981234098"")
+        assertEquals(true, result)
+    }
+
+  
+    @Test
+    fun dX.f()$() {
+        val detector = FloatingPtDetector()
+        val result = detector.detect("".123"")
+        assertEquals(true, result)
+    }
+
+    @Test
+    fun de() {
+        val detector = FloatingPtDetector()
+        val result = detector.detect(""123"")
+        assertEquals(false, result)
+    }
+
+    @Test
+    fun detect2F() {
+        val detector = FloatingPtDetector()
+        val result = detector.detect(""123.123."")
+        assertEquals(false, result)
+    }
+
+    @Test
+    fun detect3F() {
+        val detector = FloatingPtDetector()
+        val result = detector.detect(""123.02a"")
+        assertEquals(false, result)
+    }
+
+    @Test
+    fun detect4F() {
+        val detector = FloatingPtDetector()
+        val result = detector.detect(""123."")
+        assertEquals(false, result)
+    }
+
+    @Test
+    fun detect5F() {
+        val detector = FloatingPtDetector()
+        val result = detector.detect(""012.4"")
+        assertEquals(false, result)
+    }
+}","0","1655859176111","FloatingPtDetectorTest.kt","1.1.3 for 2021-2022 @t1",
+"e","package Contexts
+
+import org.junit.jupiter.api.Test
+
+import org.junit.jupiter.api.Assertions.*
+
+internal class FloatingPtDetectorTest {
+
+    @Test
+    fun detect1T() {
+        val detector = FloatingPtDetector()
+        val result = detector.detect(""1.0"")
+        assertEquals(true, result)
+    }
+
+    @Test
+    fun detect2T() {
+        val detector = FloatingPtDetector()
+        val result = detector.detect(""123.34"")
+        assertEquals(true, result)
+    }
+
+    @Test
+    fun detect3T() {
+        val detector = FloatingPtDetector()
+        val result = detector.detect(""0.20000"")
+        assertEquals(true, result)
+    }
+
+    @Test
+    fun detect4T() {
+        val detector = FloatingPtDetector()
+        val result = detector.detect(""12349871234.12340981234098"")
+        assertEquals(true, result)
+    }
+
+    @Test
+    fun detect5T() {
+        val detector = FloatingPtDetector()
+        val result = detector.detect("".123"")
+        assertEquals(true, result)
+    }
+
+    @Test
+    fun detect1F() {
+        val detector = FloatingPtDetector()
+        val result = detector.detect(""123"")
+        assertEquals(false, result)
+    }
+
+    @Test
+    fun detect2F() {
+        val detector = FloatingPtDetector()
+        val result = detector.detect(""123.123."")
+        assertEquals(false, result)
+    }
+
+    @Test
+    fun detect3F() {
+        val detector = FloatingPtDetector()
+        val result = detector.detect(""123.02a"")
+        assertEquals(false, result)
+    }
+
+    @Test
+    fun detect4F() {
+        val detector = FloatingPtDetector()
+        val result = detector.detect(""123."")
+        assertEquals(false, result)
+    }
+
+    @Test
+    fun detect5F() {
+        val detector = FloatingPtDetector()
+        val result = detector.detect(""012.4"")
+        assertEquals(false, result)
+    }
+}","","0","1655859176111","FloatingPtDetectorTest.kt","1.1.3 for 2021-2022 @t1",
+"e","","package Contexts
+
+import org.junit.jupiter.api.Test
+
+import org.junit.jupiter.api.Assertions.*
+
+internal class EmailDetectorTest {
+
+    @Test
+    fun detT() {X.f()$
+        val detector = EmailDetector()
+        assertTrue(detector.detect(""a@b.c""))
+    }
+
+      @Test
+    fun dX.f() {
+        val detector = EmailDetector()
+        assertTrue(detector.detect(""joseph.ditton@usu.edu""))
+    }
+
+    @Test
+    fun detect3T{
+        val detector = EmailDetector()
+        assertTrue(detector.detect(""a@b{}*$.&$*(@*$%&.*&*""))
+    }
+
+    @Test
+    fun detect1F() {
+        val detector = EmailDetector()
+        assertFalse(detector.detect(""@b.c""))
+    }
+
+    @Test
+    fun detect2F() {
+        val detector = EmailDetector()
+        assertFalse(detector.detect(""a@b@c.com""))
+    }
+
+    @Test
+    fun detect3F() {
+        val detector = EmailDetector()
+        assertFalse(detector.detect(""a.b@b.b.c""))
+    }
+
+    @Test
+    fun detect4F() {
+        val detector = EmailDetector()
+        assertFalse(detector.detect(""joseph ditton@usu.edu""))
+    }
+}","0","1655859176248","EmailDetectorTest.kt","1.1.3 for 2021-2022 @t1",
+"e","package Contexts
+
+import org.junit.jupiter.api.Test
+
+import org.junit.jupiter.api.Assertions.*
+
+internal class EmailDetectorTest {
+
+    @Test
+    fun detect1T() {
+        val detector = EmailDetector()
+        assertTrue(detector.detect(""a@b.c""))
+    }
+
+    @Test
+    fun detect2T() {
+        val detector = EmailDetector()
+        assertTrue(detector.detect(""joseph.ditton@usu.edu""))
+    }
+
+    @Test
+    fun detect3T() {
+        val detector = EmailDetector()
+        assertTrue(detector.detect(""{}*$.&$*(@*$%&.*&*""))
+    }
+
+    @Test
+    fun detect1F() {
+        val detector = EmailDetector()
+        assertFalse(detector.detect(""@b.c""))
+    }
+
+    @Test
+    fun detect2F() {
+        val detector = EmailDetector()
+        assertFalse(detector.detect(""a@b@c.com""))
+    }
+
+    @Test
+    fun detect3F() {
+        val detector = EmailDetector()
+        assertFalse(detector.detect(""a.b@b.b.c""))
+    }
+
+    @Test
+    fun detect4F() {
+        val detector = EmailDetector()
+        assertFalse(detector.detect(""joseph ditton@usu.edu""))
+    }
+}","","0","1655859176248","EmailDetectorTest.kt","1.1.3 for 2021-2022 @t1",

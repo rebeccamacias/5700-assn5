@@ -3854,3 +3854,837 @@ get() = TODO(""Not yet implemented"")","","47","1655784071504","ValidSymbolState
 "a","Close Active Editor",,,"1655786617710","StartState.kt","1.1.3 for 2021-2022 @t1",
 "a","Close Active Editor",,,"1655786618752","StartState.kt","1.1.3 for 2021-2022 @t1",
 "a","EditorChange",,,"1655786619798","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","package States
+
+class ValidStartState {
+}","","0","1655846284568","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e",":","","37","1655846286329","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k",":",,"38","1655846286334","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","38","1655846286929","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"39","1655846286930","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","S","","39","1655846286935","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","S",,"40","1655846286935","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","40","1655846286945","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"41","1655846286946","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","a","","41","1655846286961","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","a",,"42","1655846286961","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","42","1655846286985","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"43","1655846286986","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","44","1655846287041","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","43","1655846287089","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","e","","43","1655846287090","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","e",,"44","1655846287093","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","45","1655846287114","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Choose Lookup Item",,,"1655846288549","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","45","1655846288552","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Left",,,"1655846289541","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Change to constructor invocation",,,"1655846291734","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","()","","44","1655846291739","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Left",,,"1655846292125","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Left",,,"1655846292281","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Left",,,"1655846292422","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Left",,,"1655846292595","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Left",,,"1655846292707","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Left",,,"1655846292849","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Left",,,"1655846293049","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Left",,,"1655846293226","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Left",,,"1655846293485","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Implement members",,,"1655846296007","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Implement members",,,"1655846297024","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","override val isAccepting: kotlin.Boolean
+get() = TODO(""Not yet implemented"")","","48","1655846297089","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","override fun consumeInput(string: kotlin.String){TODO(""Not yet implemented"")
+}","","124","1655846297109","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","kotlin","74","1655846297155","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","",".","74","1655846297160","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","kotlin","151","1655846297163","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","",".","151","1655846297167","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","
+    ","","48","1655846297175","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","        ","","87","1655846297178","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","
+
+    ","","130","1655846297179","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","177","1655846297181","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","
+        ","","179","1655846297183","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","    ","","216","1655846297185","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","(","","37","1655846303392","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e",")","","38","1655846303393","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","(",,"38","1655846303396","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","d","","38","1655846303543","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","d",,"39","1655846303544","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","
+
+","","16","1655846303546","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","d","40","1655846303546","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","
+
+","16","1655846303566","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","()","37","1655846303566","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","()","44","1655846303567","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","44","1655846303568","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","44","1655846303566","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","()","","44","1655846303567","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","(d )","","37","1655846303566","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","39","1655846303682","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","e","","39","1655846303683","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","e",,"40","1655846303683","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","40","1655846303696","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","40","1655846303791","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","40","1655846303792","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"41","1655846303793","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","41","1655846303807","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","41","1655846303905","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","e","","41","1655846303906","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","e",,"42","1655846303906","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","42","1655846303919","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","42","1655846304102","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","c","","42","1655846304103","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","c",,"43","1655846304103","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","43","1655846304121","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","43","1655846304299","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","43","1655846304300","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"44","1655846304300","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","44","1655846304314","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","44","1655846304381","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","o","","44","1655846304382","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","o",,"45","1655846304381","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","45","1655846304393","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","45","1655846304472","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","r","","45","1655846304473","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","r",,"46","1655846304473","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","46","1655846304492","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","46","1655846304755","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e",":","","46","1655846304756","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k",":",,"47","1655846304756","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","47","1655846304766","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","47","1655846304957","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","47","1655846304959","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"48","1655846304960","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","D","","48","1655846305131","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","D",,"49","1655846305132","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","49","1655846305155","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","49","1655846305430","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","e","","49","1655846305431","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","e",,"50","1655846305432","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","50","1655846305461","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","50","1655846305622","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","50","1655846305623","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"51","1655846305624","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","51","1655846305647","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","51","1655846305763","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","e","","51","1655846305764","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","e",,"52","1655846305764","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","52","1655846305778","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","52","1655846305951","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","c","","52","1655846305952","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","c",,"53","1655846305952","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","53","1655846305971","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","53","1655846306161","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","53","1655846306162","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"54","1655846306163","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","o","","54","1655846306253","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","o",,"55","1655846306255","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","r","","55","1655846306334","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","r",,"56","1655846306337","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","d","","65","1655846307964","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","d",,"66","1655846307964","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","tor","53","1655846307985","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","53","1655846307986","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","64","1655846307985","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","53","1655846307985","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","tor","","53","1655846307986","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","66","1655846308135","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","e","","66","1655846308136","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","e",,"67","1655846308137","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","67","1655846308169","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"68","1655846308170","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","68","1655846308218","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","68","1655846308354","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","e","","68","1655846308355","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","e",,"69","1655846308356","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","69","1655846308397","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","69","1655846308485","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","c","","69","1655846308486","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","c",,"70","1655846308486","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","70","1655846308505","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","70","1655846308749","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","70","1655846308750","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"71","1655846308750","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","o","","71","1655846308783","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","o",,"72","1655846308785","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","72","1655846308830","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","72","1655846308862","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","r","","72","1655846308863","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","r",,"73","1655846308863","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","73","1655846308905","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Import",,,"1655846312168","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","_root_ide_package_.Contexts.","","48","1655846312191","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","101","1655846312191","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","
+ ","","14","1655846312215","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","import Contexts.Detector","","16","1655846312221","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","_root_ide_package_.Contexts","74","1655846312233","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","",".","74","1655846312236","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","15","1655846312244","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","
+","","15","1655846312245","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","import Contexts.Detector","16","1655846312250","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","
+
+","","16","1655846312251","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","package States
+
+import Contexts.BinaryDetector
+import Contexts.Detector
+import Contexts.IntegerDetector
+
+class StartState(detector: Detector): State(detector) {
+    override val isAccepting: Boolean
+        get() = false
+
+    override fun consumeInput(string: String) {
+        when (string) {
+            in ""0123456789"" -> {
+                detector.state = ValidNumberState(detector)
+            }
+            in ""abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"" -> {
+                detector.state = ValidCharacterState(detector)
+            }
+            in ""~`!@#$%^&*()_+-={}|[]\\:\"";'<>?,./"" -> {
+                detector.state = ValidSymbolState(detector)
+            }
+            else -> {
+                detector.state = InvalidState(detector)
+            }
+        }
+    }
+}package States
+
+import Contexts.Detector
+
+class StartState(detector: Detector): State(detector) {
+    override val isAccepting: Boolean
+        get() = false$
+
+    override fun consumeInput(string: String) {
+        TODO(""Not yet implemented"")
+    }
+}","0","1655859175117","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","package States
+
+import Contexts.BinaryDetector
+import Contexts.Detector
+import Contexts.IntegerDetector
+
+class StartState(detector: Detector): State(detector) {
+    override val isAccepting: Boolean
+        get() = false
+
+    override fun consumeInput(string: String) {
+        when (string) {
+            in ""0123456789"" -> {
+                detector.state = ValidNumberState(detector)
+            }
+            in ""abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"" -> {
+                detector.state = ValidCharacterState(detector)
+            }
+            in ""~`!@#$%^&*()_+-={}|[]\\:\"";'<>?,./"" -> {
+                detector.state = ValidSymbolState(detector)
+            }
+            else -> {
+                detector.state = InvalidState(detector)
+            }
+        }
+    }
+}","","0","1655859175117","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","package States
+
+import Contexts.Detector
+
+class InvalidState(detector: Detector): State(detector) {
+    override val isAccepting: Boolean
+        get() = false
+
+    override fun consumeInput(string: String) {
+        // no-op
+    }
+}package States
+
+import Contexts.Detector
+
+class InvalidState(detector: Detector): State(detector) {
+    override val isAccepting: Boolean
+        get() = TODO(""Not yet implemented"")
+
+    override fun consumeInput(string: String) {
+        TODO(""Not yet implemented"")
+    }
+}","0","1655859175235","InvalidState.kt","1.1.3 for 2021-2022 @t1",
+"e","package States
+
+import Contexts.Detector
+
+class InvalidState(detector: Detector): State(detector) {
+    override val isAccepting: Boolean
+        get() = false
+
+    override fun consumeInput(string: String) {
+        // no-op
+    }
+}","","0","1655859175235","InvalidState.kt","1.1.3 for 2021-2022 @t1",
+"e","","package States
+
+import Contexts.Detector
+
+class ValidNumberState(detector: Detector): State(detector) {
+    override val isAccepting: Boolean
+        get() = true
+
+    override fun consumeInput(string: String) {
+        if (string !in ""123456789"") {
+            detector.state = InvalidState(detector)
+        }
+    }
+}package States
+
+import Contexts.Detector
+
+class ValidNumberState(detector: Detector): State(detector) {
+    override val isAccepting: Boolean
+        get() = true$
+
+    override fun consumeInput(string: String) {
+        TODO(""Not yet implemented"")
+    }
+}","0","1655859175306","ValidNumberState.kt","1.1.3 for 2021-2022 @t1",
+"e","package States
+
+import Contexts.Detector
+
+class ValidNumberState(detector: Detector): State(detector) {
+    override val isAccepting: Boolean
+        get() = true
+
+    override fun consumeInput(string: String) {
+        if (string !in ""123456789"") {
+            detector.state = InvalidState(detector)
+        }
+    }
+}","","0","1655859175306","ValidNumberState.kt","1.1.3 for 2021-2022 @t1",
+"e","","package States
+
+import Contexts.Detector
+
+class ValidCharacterState(detector: Detector): State(detector) {
+    override val isAccepting: Boolean
+        get() = true
+
+    override fun consumeInput(string: String) {
+        if (string !in ""abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ)"") {
+            detector.state = InvalidState(detector)
+        }
+    }
+}package States
+
+import Contexts.Detector
+
+class ValidCharacterState(detector: Detector): State(detector) {
+    override val isAccepting: Boolean
+        get() = TODO(""Not yet implemented"")
+
+    override fun consumeInput(string: String) {
+        TODO(""Not yet implemented"")
+    }
+}","0","1655859175355","ValidCharacterState.kt","1.1.3 for 2021-2022 @t1",
+"e","package States
+
+import Contexts.Detector
+
+class ValidCharacterState(detector: Detector): State(detector) {
+    override val isAccepting: Boolean
+        get() = true
+
+    override fun consumeInput(string: String) {
+        if (string !in ""abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ)"") {
+            detector.state = InvalidState(detector)
+        }
+    }
+}","","0","1655859175355","ValidCharacterState.kt","1.1.3 for 2021-2022 @t1",
+"e","","package States
+
+import Contexts.Detector
+
+class ValidSymbolState(detector: Detector): State(detector) {
+    override val isAccepting: Boolean
+        get() = true
+
+    override fun consumeInput(string: String) {
+        if (string !in ""~!@#$%^&*()_+-=[]{}|;':\"",./<>?"") {
+            detector.state = InvalidS$tate(detector)
+        }
+    }
+}","0","1655859175795","ValidSymbolState.kt","1.1.3 for 2021-2022 @t1",
+"e","package States
+
+import Contexts.Detector
+
+class ValidSymbolState(detector: Detector): State(detector) {
+    override val isAccepting: Boolean
+        get() = true
+
+    override fun consumeInput(string: String) {
+        if (string !in ""~!@#$%^&*()_+-=[]{}|;':\"",./<>?"") {
+            detector.state = InvalidState(detector)
+        }
+    }
+}","","0","1655859175795","ValidSymbolState.kt","1.1.3 for 2021-2022 @t1",
+"e","","package States
+
+
+
+
+
+class ValidStartState(detector: Detector): State(detector) {
+    override val isAccepting: Boolean
+        get() = TODO(""Not yet implemented"")
+
+    override fun consumeInput(string: String) {
+        TODO(""Not yet implemented"")
+    }
+}","0","1655859176356","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","package States
+
+import Contexts.Detector
+
+class ValidStartState(detector: Detector): State(detector) {
+    override val isAccepting: Boolean
+        get() = TODO(""Not yet implemented"")
+
+    override fun consumeInput(string: String) {
+        TODO(""Not yet implemented"")
+    }
+}","","0","1655859176356","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655860782629","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","0","310","1655860782634","StartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655860785547","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","",".","600","1655860785551","StartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Enter",,,"1655860792676","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","            
+","","682","1655860792682","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","694","1655860793080","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"695","1655860793081","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","695","1655860793112","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","695","1655860793189","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","n","","695","1655860793190","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","n",,"696","1655860793198","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","696","1655860793268","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"697","1655860793270","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","""","","697","1655860793628","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","""","","698","1655860793633","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","""",,"698","1655860793641","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","0",,"699","1655860794488","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","0","","698","1655860794486","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e",".","","699","1655860794705","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k",".",,"700","1655860794711","StartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Right",,,"1655860795281","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","700","1655860796123","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"701","1655860796124","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","-","","701","1655860796438","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","-",,"702","1655860796440","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e",">","","702","1655860796745","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k",">",,"703","1655860796747","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","703","1655860796838","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"704","1655860796840","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","{","","704","1655860796962","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","{",,"705","1655860796972","StartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Enter",,,"1655860797109","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," + """"","","706","1655860797112","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","
+            ","","708","1655860797116","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","       ","","722","1655860797138","StartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Undo Typing",,,"1655860799517","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","       ","722","1655860799519","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","
+            ","708","1655860799524","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e",""," + """"","706","1655860799526","StartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655860801117","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","{","704","1655860801125","StartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655860801523","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","703","1655860801525","StartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655860801688","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","",">","702","1655860801691","StartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655860801839","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","-","701","1655860801842","StartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655860802072","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","700","1655860802074","StartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Right",,,"1655860802413","StartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Right",,,"1655860802944","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","701","1655860803317","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"702","1655860803319","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","=","","702","1655860803572","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","=",,"703","1655860803574","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e",">","","703","1655860803966","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k",">",,"704","1655860803967","StartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655860804610","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","",">","703","1655860804612","StartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655860804763","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","=","702","1655860804767","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","-","","702","1655860804923","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","-",,"703","1655860804925","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e",">","","703","1655860805356","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k",">",,"704","1655860805358","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","704","1655860805512","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"705","1655860805513","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","{","","705","1655860805651","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","}","","706","1655860805655","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","{",,"706","1655860805661","StartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Enter",,,"1655860805820","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","
+            ","","706","1655860805827","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","
+            ","","719","1655860805834","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","    ","","719","1655860805838","StartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655860808872","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","
+            ","737","1655860808876","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","737","1655860809501","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"738","1655860809503","StartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655860812963","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","
+            ","681","1655860812966","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","681","1655860813676","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"682","1655860813679","StartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655860815684","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","
+            ","551","1655860815688","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","551","1655860815945","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"552","1655860815946","StartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655860817824","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","
+            ","399","1655860817828","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","399","1655860818191","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"400","1655860818193","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","d","","687","1655860820460","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","d",,"688","1655860820462","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","
+           ","551","1655860820496","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","
+           ","399","1655860820497","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","
+           ","","399","1655860820496","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","
+           ","","551","1655860820496","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","712","1655860820496","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","688","1655860820605","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","e","","688","1655860820606","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","e",,"689","1655860820608","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","689","1655860820627","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","689","1655860820676","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","689","1655860820677","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"690","1655860820679","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","690","1655860820697","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","690","1655860820791","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","e","","690","1655860820792","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","e",,"691","1655860820793","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","691","1655860820816","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","691","1655860820951","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","c","","691","1655860820952","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","c",,"692","1655860820955","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","692","1655860820975","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","692","1655860821152","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","692","1655860821153","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"693","1655860821154","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","693","1655860821174","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","693","1655860821247","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","o","","693","1655860821248","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","o",,"694","1655860821250","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","694","1655860821324","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","694","1655860821335","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","r","","694","1655860821336","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","r",,"695","1655860821338","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","695","1655860821360","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","695","1655860821488","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e",".","","695","1655860821489","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k",".",,"696","1655860821493","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","696","1655860821508","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","696","1655860821583","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","s","","696","1655860821584","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","s",,"697","1655860821585","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","697","1655860821648","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","697","1655860821735","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","697","1655860821736","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"698","1655860821737","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","698","1655860821753","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","698","1655860821798","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","698","1655860821799","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"699","1655860821800","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","699","1655860821823","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","a",,"700","1655860821869","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","699","1655860821866","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","a","","699","1655860821867","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","700","1655860821903","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","700","1655860821943","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","700","1655860821944","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"701","1655860821947","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","701","1655860821967","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","701","1655860822035","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","e","","701","1655860822036","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","e",,"702","1655860822036","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","702","1655860822050","StartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655860822441","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","e$","701","1655860822445","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","701","1655860822463","StartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655860822590","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","t$","700","1655860822594","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","700","1655860822611","StartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655860822718","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","a$","699","1655860822724","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","699","1655860822744","StartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655860822865","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","t$","698","1655860822869","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","698","1655860822891","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","698","1655860822990","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","a","","698","1655860822991","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","a",,"699","1655860822993","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","699","1655860823013","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","699","1655860823099","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","699","1655860823100","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"700","1655860823102","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","700","1655860823128","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","700","1655860823172","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","e","","700","1655860823173","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","e",,"701","1655860823175","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","701","1655860823190","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"702","1655860823194","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","702","1655860823229","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","702","1655860823341","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","702","1655860823347","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"703","1655860823349","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","=","","703","1655860823581","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","=",,"704","1655860823582","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","704","1655860823788","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"705","1655860823790","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","V","","705","1655860824295","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","V",,"706","1655860824297","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","a","","706","1655860824436","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","a",,"707","1655860824438","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","l","","707","1655860824603","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","l",,"708","1655860824605","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","708","1655860824736","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"709","1655860824737","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","d","","709","1655860824844","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","d",,"710","1655860824845","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","S","","710","1655860825010","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","S",,"711","1655860825011","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","711","1655860825040","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","711","1655860825192","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","711","1655860825193","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"712","1655860825194","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","712","1655860825207","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","712","1655860825400","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","a","","712","1655860825401","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","a",,"713","1655860825402","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","713","1655860825417","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","713","1655860825536","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","r","","713","1655860825537","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","r",,"714","1655860825538","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","714","1655860825551","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","714","1655860825854","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","714","1655860825855","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"715","1655860825856","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","715","1655860825870","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","715","1655860826079","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","S","","715","1655860826080","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","S",,"716","1655860826081","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","716","1655860826098","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","716","1655860826502","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","716","1655860826503","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"717","1655860826504","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","717","1655860826530","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","717","1655860826793","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","a","","717","1655860826794","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","a",,"718","1655860826806","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","718","1655860826864","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"719","1655860826872","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","e","","719","1655860826931","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","e",,"720","1655860826941","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","720","1655860826984","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","720","1655860827194","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","(","","720","1655860827195","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e",")","","721","1655860827199","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","(",,"721","1655860827202","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","d","","721","1655860827435","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","d",,"722","1655860827436","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","722","1655860827455","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","722","1655860827594","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","e","","722","1655860827595","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","e",,"723","1655860827595","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","723","1655860827612","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","723","1655860827660","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","723","1655860827661","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"724","1655860827662","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","724","1655860827677","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","724","1655860827794","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","e","","724","1655860827795","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","e",,"725","1655860827796","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","725","1655860827813","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","725","1655860827973","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","c","","725","1655860827974","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","c",,"726","1655860827977","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","726","1655860827995","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","726","1655860828154","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","726","1655860828155","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"727","1655860828156","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","727","1655860828171","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","727","1655860828277","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","o","","727","1655860828278","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","o",,"728","1655860828280","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","728","1655860828295","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","728","1655860828350","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","r","","728","1655860828351","StartState.kt","1.1.3 for 2021-2022 @t1",
+"k","r",,"729","1655860828352","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","729","1655860828369","StartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655860833216","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","t","701","1655860833219","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","728","1655860833219","StartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","TODO(""Not yet implemented"")","157","1655860844288","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"158","1655860844293","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","157","1655860844292","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","158","1655860844316","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","158","1655860844352","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","r","","158","1655860844353","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","r",,"159","1655860844354","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","159","1655860844376","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","159","1655860844419","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","u","","159","1655860844420","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","u",,"160","1655860844421","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","160","1655860844445","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","160","1655860844545","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","e","","160","1655860844546","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","e",,"161","1655860844548","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","161","1655860844612","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","161","1655860863569","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","TODO(""Not yet implemented"")","219","1655860863569","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","219","1655860863573","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"220","1655860863575","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","161","1655860863602","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","221","1655860863602","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","161","1655860863603","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","f",,"221","1655860863712","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","220","1655860863710","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","f","","220","1655860863711","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","221","1655860863727","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","221","1655860863809","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","221","1655860863812","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"222","1655860863813","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","(","","222","1655860863990","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e",")","","223","1655860863992","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","(",,"223","1655860863996","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","s","","223","1655860864147","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","s",,"224","1655860864148","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e",""," (s","221","1655860864175","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","221","1655860864176","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," (s","","221","1655860864176","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","224","1655860864355","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","224","1655860864356","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"225","1655860864356","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","225","1655860864371","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","225","1655860864536","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","r","","225","1655860864537","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","r",,"226","1655860864538","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","226","1655860864542","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"227","1655860864544","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","227","1655860864562","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","227","1655860864627","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","227","1655860864628","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"228","1655860864629","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","228","1655860864643","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","228","1655860864697","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","n","","228","1655860864698","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","n",,"229","1655860864698","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","229","1655860864713","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","229","1655860864781","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","g","","229","1655860864782","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","g",,"230","1655860864783","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","230","1655860864795","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","230","1655860864916","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","230","1655860864920","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"231","1655860864921","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","!","","231","1655860865149","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","!",,"232","1655860865151","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655860865369","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","!","231","1655860865373","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655860865505","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","230","1655860865507","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655860865640","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","g","229","1655860865642","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655860865770","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","n","228","1655860865772","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655860865906","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","i","227","1655860865908","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655860866177","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","t","226","1655860866179","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","226","1655860866488","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"227","1655860866489","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","227","1655860866516","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","227","1655860866537","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","n","","227","1655860866538","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","n",,"228","1655860866539","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","228","1655860866555","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","228","1655860866652","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","g","","228","1655860866653","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","g",,"229","1655860866654","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","229","1655860866668","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","229","1655860866762","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","229","1655860866766","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"230","1655860866767","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","!","","230","1655860867080","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","!",,"231","1655860867081","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","231","1655860867420","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"232","1655860867421","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","n","","232","1655860867445","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","n",,"233","1655860867447","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","233","1655860867466","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","233","1655860867547","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","233","1655860867550","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"234","1655860867551","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","""","","234","1655860870557","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","""",,"235","1655860870561","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","""","","234","1655860870560","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","0","","235","1655860870963","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","0",,"236","1655860870964","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e",".","","236","1655860871230","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k",".",,"237","1655860871233","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Right",,,"1655860872028","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Right",,,"1655860872220","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Right",,,"1655860872615","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Right",,,"1655860872912","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Left",,,"1655860873584","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","239","1655860873970","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"240","1655860873971","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","{","","240","1655860874169","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"k","{",,"241","1655860874170","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Enter",,,"1655860874336","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","}
+","","242","1655860874339","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","
+","","242","1655860874342","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","        ","","243","1655860874352","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","","
+","242","1655860874357","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","        
+","","242","1655860874360","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","    ","","250","1655860874363","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Apply Copilot Suggestion",,,"1655860875811","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"e","detector.state = InvalidState(detector)","","254","1655860875812","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Undefined",,,"1655860899319","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Undefined",,,"1655860899324","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Undefined",,,"1655860899326","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Undefined",,,"1655860899326","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Undefined",,,"1655860900545","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Undefined",,,"1655860900550","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Undefined",,,"1655860900552","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"a","Undefined",,,"1655860900555","ValidStartState.kt","1.1.3 for 2021-2022 @t1",
+"a","EditorChange",,,"1655860945546","ValidStartState.kt","1.1.3 for 2021-2022 @t1",

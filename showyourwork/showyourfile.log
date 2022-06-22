@@ -45,3 +45,4 @@
 /src/test/kotlin/Contexts/BinaryDetectorTest.kt
 /src/test/kotlin/Contexts/EmailDetectorTest.kt
 /src/test/kotlin/Contexts/PasswordDetectorTest.kt
+/src/main/kotlin/States/ValidStartState.kt

@@ -3738,3 +3738,2054 @@ class PasswordDetector: Detector() {
 "k","""",,"568","1655824521408","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
 "e","1","","568","1655824521729","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
 "k","1",,"569","1655824521730","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Right",,,"1655828194204","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655828194522","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","|","548","1655828194538","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655828194669","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","|","547","1655828194674","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","&","","547","1655828194926","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","&",,"548","1655828194931","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","&","","548","1655828195054","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","&",,"549","1655828195059","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Kotlin Class/File",,,"1655846284453","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Reformat",,,"1655846285290","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655853553466","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","            println(characters[i])
+    ","578","1655853553474","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","EditorChange",,,"1655857441433","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"c","val isAccepting = state.isAccepting
+        state = StartState(this)
+        return isAccepting",,"682","1655857445599","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Paste",,,"1655857447237","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"p","val isAccepting = state.isAccepting
+        state = StartState(this)
+        return isAccepting",,"662","1655857447244","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","val isAccepting = state.isAccepting
+        state = StartState(this)
+        return isAccepting","","662","1655857447249","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","    ","","706","1655857447258","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","    ","","743","1655857447259","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Move Selection",,,"1655857447278","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","val isAccepting = state.isAccepting
+        state = StartState(this)
+        return isAccepting","785","1655857447281","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Enter",,,"1655857449036","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","
+            ","","662","1655857449043","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","        ","790","1655857452688","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"c","return isAccepting",,"760","1655857456328","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Paste",,,"1655857457041","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"p","return isAccepting",,"789","1655857457042","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","return isAccepting","","789","1655857457043","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","        ","","789","1655857457049","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Move Selection",,,"1655857457061","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","return isAccepting","760","1655857457064","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655857459144","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","
+","798","1655857459150","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","            ","748","1655857460398","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Cut",,,"1655857472441","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"c","val isAccepting",,"675","1655857472443","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","val isAccepting","675","1655857472477","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","675","1655857472857","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"676","1655857472857","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","677","1655857472877","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","676","1655857473037","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","s","","676","1655857473038","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","s",,"677","1655857473039","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","677","1655857473052","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","677","1655857473444","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","A","","677","1655857473445","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","A",,"678","1655857473445","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","679","1655857473462","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","678","1655857473617","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","c","","678","1655857473618","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","c",,"679","1655857473618","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","680","1655857473627","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","c",,"680","1655857473775","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","679","1655857473774","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","c","","679","1655857473775","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","681","1655857473790","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","680","1655857473908","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","e","","680","1655857473909","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","e",,"681","1655857473909","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","682","1655857473938","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","681","1655857473996","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","p","","681","1655857473997","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","p",,"682","1655857473997","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","683","1655857474014","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"683","1655857474080","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","682","1655857474078","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","682","1655857474079","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","684","1655857474096","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","683","1655857474183","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","683","1655857474184","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"684","1655857474185","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","685","1655857474200","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","684","1655857474259","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","n","","684","1655857474260","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","n",,"685","1655857474260","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","686","1655857474274","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","685","1655857474337","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","g","","685","1655857474338","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","g",,"686","1655857474338","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","687","1655857474353","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Enter",,,"1655857476813","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","
+    ","","147","1655857476818","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","","668","1655857476818","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","692","1655857476818","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Paste",,,"1655857476958","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"p","val isAccepting",,"152","1655857476960","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","val isAccepting","","152","1655857476966","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","167","1655857477535","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"168","1655857477537","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","
+
+","","18","1655857477538","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","
+
+","","66","1655857477538","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","","152","1655857477538","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","171","1655857477538","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","
+
+","18","1655857477589","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","
+
+","64","1655857477589","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","","148","1655857477589","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," =","","167","1655857477589","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","=",,"169","1655857477590","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","169","1655857477754","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"170","1655857477756","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","f","","170","1655857477823","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","f",,"171","1655857477824","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","
+    val isAccepting = f","147","1655857477914","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","
+    val isAccepting = f$","","147","1655857477915","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","171","1655857477929","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","a","","171","1655857477930","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","a",,"172","1655857477930","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","l","","172","1655857478069","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","l",,"173","1655857478070","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","s","","173","1655857478073","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","s",,"174","1655857478074","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","174","1655857478166","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","174","1655857478278","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","e","","174","1655857478279","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","e",,"175","1655857478282","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","175","1655857478330","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655857492116","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","l","154","1655857492119","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","174","1655857492119","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","r","","154","1655857492448","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","r",,"155","1655857492449","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","155","1655857492490","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Enter",,,"1655858589963","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","
+    ","","151","1655858589993","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","v","","156","1655858591253","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","v",,"157","1655858591255","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","157","1655858591288","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","157","1655858592417","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","a","","157","1655858592418","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","a",,"158","1655858592420","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","l","","158","1655858592425","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","l",,"159","1655858592429","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","159","1655858592468","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"160","1655858592469","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655858592473","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","159","1655858592474","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655858592477","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","l","158","1655858592479","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655858592483","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","a","157","1655858592484","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655858593694","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","v","156","1655858593696","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","p","","156","1655858593931","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","p",,"157","1655858593932","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","157","1655858593945","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","157","1655858594115","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","r","","157","1655858594116","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","r",,"158","1655858594120","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","158","1655858594161","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"159","1655858594164","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","v","","159","1655858594272","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","v",,"160","1655858594274","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","a","","160","1655858594397","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","a",,"161","1655858594400","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","161","1655858594535","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"162","1655858594537","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","e","","162","1655858594576","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","e",,"163","1655858594592","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","163","1655858594705","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"164","1655858594706","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","v","","164","1655858594949","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","v",,"165","1655858594950","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","165","1655858594964","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","165","1655858595062","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","a","","165","1655858595063","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","a",,"166","1655858595067","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","l","","166","1655858595197","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","l",,"167","1655858595200","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","167","1655858595302","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"168","1655858595303","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655858706057","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","167","1655858706064","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655858707106","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","l","166","1655858707108","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","l","","166","1655858707581","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","l",,"167","1655858707583","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","167","1655858707609","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","167","1655858707880","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","167","1655858707889","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"168","1655858707890","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655858709071","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","167","1655858709074","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655858709243","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","l","166","1655858709245","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655858709381","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","a","165","1655858709382","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655858709520","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","v","164","1655858709521","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","v","","164","1655858710781","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","v",,"165","1655858710782","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","165","1655858710826","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","165","1655858710865","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","a","","165","1655858710866","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","a",,"166","1655858710867","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","166","1655858710909","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","166","1655858710947","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","l","","166","1655858710948","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","l",,"167","1655858710950","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","167","1655858710974","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","167","1655858711033","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","167","1655858711053","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"168","1655858711054","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","n","","168","1655858711566","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","n",,"169","1655858711569","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","X.f$","","169","1655858711591","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","X.f$","169","1655858711691","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","u","","169","1655858711692","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","u",,"170","1655858711693","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","X.f$","","170","1655858711721","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","X.f$","170","1655858712007","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","m","","170","1655858712008","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","m",,"171","1655858712010","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","X.f$","","171","1655858712027","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","X.f$","171","1655858712270","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","O","","171","1655858712271","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","O",,"172","1655858712274","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","X.f$","","172","1655858712319","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","X.f$","172","1655858712536","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","f","","172","1655858712537","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","f",,"173","1655858712538","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","X.f$","","173","1655858712557","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","X.f$","173","1655858712809","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","P","","173","1655858712810","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","P",,"174","1655858712811","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","X.f$","","174","1655858712828","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","X.f$","174","1655858713104","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","e","","174","1655858713105","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","e",,"175","1655858713107","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","X.f$","","175","1655858713122","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","X.f$","175","1655858713204","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","r","","175","1655858713205","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","r",,"176","1655858713206","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","X.f$","","176","1655858713236","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","X.f$","176","1655858713292","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","176","1655858713293","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"177","1655858713294","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","X.f$","","177","1655858713310","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","X.f$","177","1655858713375","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","o","","177","1655858713376","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","o",,"178","1655858713376","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","X.f$","","178","1655858713392","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","X.f$","178","1655858713448","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","d","","178","1655858713449","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","d",,"179","1655858713488","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","X.f$","","179","1655858713509","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","X.f$","179","1655858713542","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","s","","179","1655858713543","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","s",,"180","1655858713544","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","X.f$","","180","1655858713613","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","X.f$","180","1655858713732","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",":","","180","1655858713733","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k",":",,"181","1655858713734","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","X.f$","","181","1655858713748","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","X.f$","181","1655858713818","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","181","1655858713827","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"182","1655858713828","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","I","","182","1655858715491","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","I",,"183","1655858715491","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","X.f$","","183","1655858715507","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","X.f$","183","1655858715699","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","n","","183","1655858715700","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","n",,"184","1655858715701","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","X.f$","","184","1655858715722","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","X.f$","184","1655858715832","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","184","1655858715833","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"185","1655858715834","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","X.f$","","185","1655858715850","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Add initializer",,,"1655858722146","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","X.f$","185","1655858722150","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","=","","185","1655858722151","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","0","","186","1655858722154","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","185","1655858722166","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","187","1655858722168","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Enter",,,"1655859077904","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","        
+","","431","1655859077910","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","    ","","439","1655859077913","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","443","1655859078432","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"444","1655859078433","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," = 0","185","1655859078456","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","X.f$","","185","1655859078457","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","","431","1655859078456","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","X.f$","185","1655859078456","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," = 0","","185","1655859078457","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","444","1655859078456","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","444","1655859078605","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","f","","444","1655859078606","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","f",,"445","1655859078606","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","445","1655859078617","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","445","1655859078717","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","445","1655859078720","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"446","1655859078721","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","(","","446","1655859078928","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",")","","447","1655859078930","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","(",,"447","1655859078932","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","c","","447","1655859079353","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","c",,"448","1655859079355","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," (c","445","1655859079398","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","445","1655859079399","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," (c","","445","1655859079399","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","448","1655859079407","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","h","","448","1655859079408","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","h",,"449","1655859079408","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","449","1655859079423","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","449","1655859079500","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","a","","449","1655859079501","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","a",,"450","1655859079501","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","450","1655859079516","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","450","1655859079660","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","r","","450","1655859079661","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","r",,"451","1655859079661","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","451","1655859079677","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","451","1655859079742","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","a","","451","1655859079743","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","a",,"452","1655859079744","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","452","1655859079758","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","452","1655859079849","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","c","","452","1655859079850","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","c",,"453","1655859079850","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","453","1655859079862","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","453","1655859080059","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","453","1655859080060","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"454","1655859080062","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","454","1655859080113","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","454","1655859080157","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","e","","454","1655859080158","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","e",,"455","1655859080159","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","455","1655859080179","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","455","1655859080210","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","r","","455","1655859080211","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","r",,"456","1655859080214","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","456","1655859080230","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","456","1655859080348","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","456","1655859080360","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"457","1655859080361","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","=",,"458","1655859080732","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","=","","457","1655859080732","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","=",,"459","1655859081338","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","=","","457","1655859081337","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","459","1655859081346","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"460","1655859081347","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","""","","460","1655859081350","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","""","","460","1655859081351","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","""",,"461","1655859081352","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",".","","461","1655859081729","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k",".",,"462","1655859081733","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Right",,,"1655859082337","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","463","1655859082681","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"464","1655859082681","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655859083710","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","463","1655859083713","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Right",,,"1655859084121","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","464","1655859084374","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"465","1655859084375","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","{","","465","1655859084601","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","{",,"466","1655859084602","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Enter",,,"1655859084779","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","}
+","","467","1655859084782","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","
+","","467","1655859084783","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","            ","","468","1655859084789","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","
+","467","1655859084792","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","
+            ","","479","1655859084795","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","    ","","479","1655859084796","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","+","","483","1655859085584","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","+",,"484","1655859085585","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","+","","484","1655859085705","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","+",,"485","1655859085706","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655859085995","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","+","484","1655859085996","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655859086154","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","+","483","1655859086155","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","n","","483","1655859086527","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","n",,"484","1655859086528","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","484","1655859086545","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","484","1655859086670","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","u","","484","1655859086671","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","u",,"485","1655859086671","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","485","1655859086682","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","485","1655859086847","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","m","","485","1655859086848","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","m",,"486","1655859086848","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","486","1655859086861","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Choose Lookup Item Replace",,,"1655859087473","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","486","1655859087476","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","OfPeriods","","486","1655859087478","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","+","","495","1655859088920","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","+",,"496","1655859088922","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","+","","496","1655859089028","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","+",,"497","1655859089030","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Right",,,"1655859094820","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655859095072","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","l","166","1655859095073","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","r","","166","1655859095160","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","r",,"167","1655859095161","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","r","166","1655859095203","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","l","","166","1655859095204","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","l","166","1655859095204","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","r$","","166","1655859095205","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Enter",,,"1655859100158","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","167","1655859100161","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","","190","1655859100161","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","","498","1655859100161","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","    
+        ","","520","1655859100161","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","524","1655859100633","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"525","1655859100634","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","167","1655859100651","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","526","1655859100651","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","167","1655859100652","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","525","1655859100774","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","f","","525","1655859100775","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","f",,"526","1655859100775","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","526","1655859100787","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","526","1655859100926","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","526","1655859100953","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"527","1655859100954","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","(","","527","1655859101141","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",")","","528","1655859101142","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","(",,"528","1655859101144","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","n","","528","1655859101589","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","n",,"529","1655859101591","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," (n","","526","1655859101610","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," (n","526","1655859101609","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","526","1655859101610","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","529","1655859101733","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","u","","529","1655859101734","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","u",,"530","1655859101734","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","530","1655859101752","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","530","1655859101924","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","m","","530","1655859101925","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","m",,"531","1655859101925","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","531","1655859101941","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Choose Lookup Item Replace",,,"1655859103605","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","531","1655859103610","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","OfPeriods","","531","1655859103615","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","540","1655859104366","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"541","1655859104367","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","=","","541","1655859104731","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","=",,"542","1655859104733","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","=","","541","1655859104866","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","=",,"543","1655859104867","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","543","1655859104930","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"544","1655859104931","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655859109011","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","        if (numOfPeriods == )
+    ","516","1655859109015","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Enter",,,"1655859109919","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","        
+        ","","506","1655859109923","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","514","1655859110159","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"515","1655859110160","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","            i
+    ","502","1655859110176","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","        i$
+        ","","506","1655859110176","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","515","1655859110303","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","f","","515","1655859110304","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","f",,"516","1655859110304","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","516","1655859110312","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","516","1655859110376","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","516","1655859110378","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"517","1655859110378","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","(","","517","1655859110549","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",")","","518","1655859110550","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","(",,"518","1655859110552","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","n","","518","1655859110743","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","n",,"519","1655859110743","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," (n","516","1655859110759","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","516","1655859110760","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," (n","","516","1655859110759","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","519","1655859110881","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","u","","519","1655859110882","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","u",,"520","1655859110883","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","520","1655859110893","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","520","1655859111060","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","m","","520","1655859111061","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","m",,"521","1655859111063","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","521","1655859111091","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Choose Lookup Item Replace",,,"1655859111495","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","521","1655859111498","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","OfPeriods","","521","1655859111500","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","530","1655859112042","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"531","1655859112043","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",">","","531","1655859112265","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k",">",,"532","1655859112266","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","532","1655859112360","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"533","1655859112361","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","1","","533","1655859112532","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","1",,"534","1655859112533","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","534","1655859112542","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Right",,,"1655859112942","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","534","1655859113121","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","535","1655859113122","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"536","1655859113122","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","{","","536","1655859113286","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","{",,"537","1655859113286","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Enter",,,"1655859113416","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","}
+","","538","1655859113419","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","
+","","538","1655859113423","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","                ","","539","1655859113429","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","
+","538","1655859113433","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","    
+            ","","550","1655859113436","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","    ","","554","1655859113437","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","r","","558","1655859114674","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","r",,"559","1655859114675","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","559","1655859114695","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","559","1655859114845","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","e","","559","1655859114846","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","e",,"560","1655859114845","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","560","1655859114854","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","560","1655859114926","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","560","1655859114927","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"561","1655859114927","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","561","1655859114939","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","561","1655859115016","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","u","","561","1655859115017","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","u",,"562","1655859115017","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","562","1655859115029","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","562","1655859115195","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","r","","562","1655859115196","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","r",,"563","1655859115198","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","563","1655859115216","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","563","1655859115251","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","n","","563","1655859115252","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","n",,"564","1655859115254","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","564","1655859115277","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","564","1655859115327","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","564","1655859115338","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"565","1655859115341","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","f","","565","1655859115489","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","f",,"566","1655859115489","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","566","1655859115504","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","566","1655859115557","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","a","","566","1655859115558","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","a",,"567","1655859115558","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","567","1655859115566","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","567","1655859115642","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","l","","567","1655859115643","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","l",,"568","1655859115643","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","568","1655859115653","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","568","1655859115703","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","s","","568","1655859115704","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","s",,"569","1655859115704","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","569","1655859115721","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","569","1655859115871","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","e","","569","1655859115872","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","e",,"570","1655859115873","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","570","1655859115886","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","package Contexts
+
+
+
+import States.StartState
+
+
+
+abstract class Detector {
+    abstract var state: State
+
+    abstract fun detect(input: String): Boolean
+}package Contexts
+
+import States.StartState
+
+abstract class Detector {
+    abstract var state: StartState
+
+    abstract fun detect(input: String): Boolean
+}","0","1655859175187","Detector.kt","1.1.3 for 2021-2022 @t1",
+"e","package Contexts
+
+import States.StartState
+import States.State
+
+abstract class Detector {
+    abstract var state: State
+
+    abstract fun detect(input: String): Boolean
+}","","0","1655859175187","Detector.kt","1.1.3 for 2021-2022 @t1",
+"e","","package Contexts
+
+import States.StartState
+import States.State
+
+class BinaryDetector: Detector() {
+    override var state: State = StartState(this)
+    var$ isAccepting = false
+
+    override fun detect(input: String): Boolean {
+        val characters = input
+            .trim()
+            .split("""")
+            .drop(1)
+            .dropLast(1)
+            .toMutableList()
+
+        for (i in 0 until characters.size) {
+            if (characters[i] == ""0"" && (i == 0 || i == characters.size - 1)) {
+                return false
+            } else if$ (charactersi] != ""0"" && characters[ii] !=""1""1"")                   return false
+            }            state.consumeInput(character[i])
+            isAccepting = state.isAccepting
+            state = StartState(this)
+
+        }
+        return isAccepting
+    }
+}package Contexts
+
+import States.StartState
+
+class BinaryDetector: Detector() {
+    override var state: StartState = StartState(this)
+
+    override fun detect(input: String): Boolean$ {
+        TODO(""Not yet implemented"")
+    }
+}","0","1655859175394","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","package Contexts
+
+import States.StartState
+import States.State
+
+class BinaryDetector: Detector() {
+    override var state: State = StartState(this)
+    var isAccepting = false
+
+    override fun detect(input: String): Boolean {
+        val characters = input
+            .trim()
+            .split("""")
+            .drop(1)
+            .dropLast(1)
+            .toMutableList()
+
+        for (i in 0 until characters.size) {
+            if (characters[i] == ""0"" && (i == 0 || i == characters.size - 1)) {
+                return false
+            } else if (characters[i] != ""0"" && characters[i] != ""1"") {
+                return false
+            }
+            state.consumeInput(characters[i])
+            isAccepting = state.isAccepting
+            state = StartState(this)
+
+        }
+        return isAccepting
+    }
+}","","0","1655859175394","BinaryDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","package Contexts
+
+import States.StartState
+import States.State
+
+class EmailDetector: Detector() {
+    override var state: State = StartState(this)
+
+    override fun detect(input: String): Boolean{
+        val characters = input
+            .trim()
+            .split("""")
+            .drop(1)
+            .dropLast(1)
+            .toMutableList()
+
+        for (character in characters) {
+            state.consumeInput(character)
+        }
+
+        val isAccepting = state.isAccepting
+        state = StartState(this)
+        return isAccepting
+    }
+}package Contexts
+
+import States.StartState
+
+class EmailDetector: Detector() {
+    override var state: StartState = StartState(this)
+
+    override fun detect(input: String): Boolean{
+        TODO(""Not yet implemented"")
+    }
+}","0","1655859175437","EmailDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","package Contexts
+
+import States.StartState
+import States.State
+
+class EmailDetector: Detector() {
+    override var state: State = StartState(this)
+
+    override fun detect(input: String): Boolean{
+        val characters = input
+            .trim()
+            .split("""")
+            .drop(1)
+            .dropLast(1)
+            .toMutableList()
+
+        for (character in characters) {
+            state.consumeInput(character)
+        }
+
+        val isAccepting = state.isAccepting
+        state = StartState(this)
+        return isAccepting
+    }
+}","","0","1655859175438","EmailDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","package Contexts
+
+import States.StartState
+import States.State
+
+class FloatingPtDetector: Detector() {
+    override var state: State = StartState(this)
+    private var numOfPeriods: Int = 0
+
+    override fun detect(input: String): Boolean {
+        val characters = input
+            .trim()
+            .split("""")
+            .drop(1)
+            .dropLast(1)
+            .toMutableList()
+
+        for (character in characters) {
+            if (character == ""."") {
+                numOfPeriods++
+                if (numOfPeriods > 1) {
+                    return false$
+                }
+            }
+            state.consumeInput(character)
+        }
+
+        val isAccepting = state.isAccepting
+        state = StartState(this)
+        return isAccepting
+    }
+}package Contexts
+
+import States.StartState
+
+class FloatingPtDetector: Detector() {
+    override var state: StartState = StartState(this)
+
+    override fun detect(input: String): Boolean {
+        TODO(""Not yet implemented"")
+    }
+}","0","1655859175485","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","package Contexts
+
+import States.StartState
+import States.State
+
+class FloatingPtDetector: Detector() {
+    override var state: State = StartState(this)
+    private var numOfPeriods: Int = 0
+
+    override fun detect(input: String): Boolean {
+        val characters = input
+            .trim()
+            .split("""")
+            .drop(1)
+            .dropLast(1)
+            .toMutableList()
+
+        for (character in characters) {
+            if (character == ""."") {
+                numOfPeriods++
+                if (numOfPeriods > 1) {
+                    return false
+                }
+            }
+            state.consumeInput(character)
+        }
+
+        val isAccepting = state.isAccepting
+        state = StartState(this)
+        return isAccepting
+    }
+}","","0","1655859175485","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","package Contexts
+
+import States.StartState
+import States.State
+
+class IntegerDetector: Detector() {
+    override var state: State = StartState(this)
+
+    override fun detect(input: String): Boolean {
+        val characters = input
+            .trim()
+            .split("""")
+            .drop(1)
+            .dropLast(1)
+            .toMutableList()
+
+        for (i in 0 until characters.size) {
+            if (characters[i] == ""0"" && i == 0) {
+                return false
+            }
+            state.consumeInput(characters[i])
+        }
+
+        val isAccepting = state.isAccepting
+        state = StartState(this)
+        return isAccepting
+    }
+}package Contexts
+
+import States.StartState
+
+class IntegerDetector: Detector() {
+    override var state: StartState = StartState(this)
+
+    override fun detect(input: String): Boolean {
+        val characters = input
+            .trim()
+            .split("""")
+            .drop(1)
+            .dropLast(1)
+            .toMutableList()
+
+        for (character in characters) {
+            state.consumeInput(character)
+        }
+
+        $al isAccepting = state.isAccepting
+        state = StartState(this)
+        return isAccepting
+    }
+}","0","1655859175561","IntegerDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","package Contexts
+
+import States.StartState
+import States.State
+
+class IntegerDetector: Detector() {
+    override var state: State = StartState(this)
+
+    override fun detect(input: String): Boolean {
+        val characters = input
+            .trim()
+            .split("""")
+            .drop(1)
+            .dropLast(1)
+            .toMutableList()
+
+        for (i in 0 until characters.size) {
+            if (characters[i] == ""0"" && i == 0) {
+                return false
+            }
+            state.consumeInput(characters[i])
+        }
+
+        val isAccepting = state.isAccepting
+        state = StartState(this)
+        return isAccepting
+    }
+}","","0","1655859175561","IntegerDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","package Contexts
+
+import States.StartState
+import States.State
+
+class PasswordDetector: Detector() {
+    override var state: State = StartState(this)
+
+    override fun detect(input: String): Boolean {
+        val characters = input
+            .trim()
+            .split("""")
+            .drop(1)
+            .dropLast(1)
+            .toMutableList()
+
+        for (character in characters) {
+            state.consumeInput(character)
+        }
+
+        val isAccepting = state.isAccepting
+        state = StartState(this)
+        return isAccepting
+    }
+}package Contexts
+
+import States.StartState
+
+class PasswordDetector: Detector() {
+    override var state: StartState = StartState(this)
+
+    override fun detect(input: String): Boolean$ {
+        TODO(""Not yet implemented"")
+    }
+}","0","1655859175620","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","package Contexts
+
+import States.StartState
+import States.State
+
+class PasswordDetector: Detector() {
+    override var state: State = StartState(this)
+
+    override fun detect(input: String): Boolean {
+        val characters = input
+            .trim()
+            .split("""")
+            .drop(1)
+            .dropLast(1)
+            .toMutableList()
+
+        for (character in characters) {
+            state.consumeInput(character)
+        }
+
+        val isAccepting = state.isAccepting
+        state = StartState(this)
+        return isAccepting
+    }
+}","","0","1655859175620","PasswordDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655859184257","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","                return false
+    ","542","1655859184330","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Enter",,,"1655859184904","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","    
+            ","","550","1655859185021","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","    ","","554","1655859185053","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Apply Copilot Suggestion",,,"1655859186363","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","return true","","558","1655859186367","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655859186888","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","e","568","1655859186926","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655859187044","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","u","567","1655859187063","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655859187167","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","r","566","1655859187172","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655859187345","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","t","565","1655859187352","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","f","","565","1655859187521","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","f",,"566","1655859187526","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","a","","566","1655859187788","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","a",,"567","1655859187790","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","l","","567","1655859187904","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","l",,"568","1655859187906","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","s","","568","1655859187966","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","s",,"569","1655859187968","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","e","","569","1655859188117","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","e",,"570","1655859188119","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Enter",,,"1655859193536","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","
+","","64","1655859193645","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Enter",,,"1655859193810","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","
+","","65","1655859193823","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","/","","64","1655859196792","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","/",,"65","1655859196795","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","/","","65","1655859197533","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","/",,"66","1655859197535","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Apply Copilot Suggestion",,,"1655859201202","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," Contexts are used to store the current state of the game.","","66","1655859201207","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655859204645","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","Contexts are used to store the current state of the game.","67","1655859204653","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Paste",,,"1655860630699","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"p","A floating point value can start with either a (1-9) or a 0, or a period (.)
+//If the value starts with a 0 then a period must be the next character
+//The period must be followed by at least one digit (0-9)
+//A floating point value contains exactly one period 
+//A floating point number must not contain any chars other than a period or a digit (0-9)",,"67","1655860630918","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","A floating point value can start with either a (1-9) or a 0, or a period (.)
+//If the value starts with a 0 then a period must be the next character
+//The period must be followed by at least one digit (0-9)
+//A floating point value contains exactly one period 
+//A floating point number must not contain any chars other than a period or a digit (0-9)","","67","1655860630930","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Paste",,,"1655860631231","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"p","A floating point value can start with either a (1-9) or a 0, or a period (.)
+//If the value starts with a 0 then a period must be the next character
+//The period must be followed by at least one digit (0-9)
+//A floating point value contains exactly one period 
+//A floating point number must not contain any chars other than a period or a digit (0-9)",,"417","1655860631236","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","//A floating point number must not contain any chars other than a period or a digit (0-9)A floating point value can start with either a (1-9) or a 0, or a period (.)
+//If the value starts with a 0 then a period must be the next character
+//The period must be followed by at least one digit (0-9)
+//A floating point value contains exactly one period 
+","","328","1655860631239","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Undo Paste",,,"1655860632069","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","floating point number must not contain any chars other than a period or a digit (0-9)A floating point value can start with either a (1-9) or a 0, or a period (.)
+//If the value starts with a 0 then a period must be the next character
+//The period must be followed by at least one digit (0-9)
+//A floating point value contains exactly one period 
+//A ","332","1655860632108","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","1","","67","1655860634666","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","1",,"68","1655860634669","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","68","1655860634733","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","68","1655860634790","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",".","","68","1655860634791","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k",".",,"69","1655860634796","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"70","1655860634862","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","69","1655860634861","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","149","1655860636797","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"150","1655860636799","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","2","","150","1655860637054","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","2",,"151","1655860637055","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","",". ","68","1655860637079","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","68","1655860637080","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","150","1655860637079","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","68","1655860637080","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",". ","","68","1655860637081","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","151","1655860637215","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",".","","151","1655860637216","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k",".",,"152","1655860637220","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","152","1655860637258","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"153","1655860637260","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","225","1655860639038","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"226","1655860639040","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","3","","226","1655860639293","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","3",,"227","1655860639295","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","",". ","151","1655860639320","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","151","1655860639321","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","226","1655860639320","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","151","1655860639321","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",". ","","151","1655860639322","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","227","1655860639393","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",".","","227","1655860639394","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k",".",,"228","1655860639398","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","228","1655860639451","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"229","1655860639454","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","287","1655860640745","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"288","1655860640746","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","4","","288","1655860641029","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","4",,"289","1655860641032","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","",". ","227","1655860641072","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","227","1655860641073","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","288","1655860641072","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","227","1655860641073","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",". ","","227","1655860641074","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","289","1655860641128","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",".","","289","1655860641129","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k",".",,"290","1655860641153","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","290","1655860641215","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"291","1655860641220","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","345","1655860642550","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"346","1655860642552","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","5","","346","1655860642851","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","5",,"347","1655860642853","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",".","","347","1655860642924","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k",".",,"348","1655860642929","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","348","1655860643022","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"349","1655860643026","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655860645863","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","
+","63","1655860645872","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Enter",,,"1655860646992","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","
+","","63","1655860646998","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Close Active Editor",,,"1655860659036","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","EditorChange",,,"1655860659998","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Close Active Editor",,,"1655860660742","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Close Active Editor",,,"1655860661515","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Close Active Editor",,,"1655860662463","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Close Active Editor",,,"1655860663670","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","341","1655860684213","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Enter",,,"1655860968405","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","            
+","","976","1655860968411","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","988","1655860969403","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"989","1655860969405","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","989","1655860969453","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","989","1655860969560","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","f","","989","1655860969561","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","f",,"990","1655860969562","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","990","1655860969578","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","990","1655860969745","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","990","1655860969776","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"991","1655860969777","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","(","","991","1655860970016","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",")","","992","1655860970018","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","(",,"992","1655860970023","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","c","","992","1655860971325","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","c",,"993","1655860971326","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","h","","993","1655860971687","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","h",,"994","1655860971688","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","a","","994","1655860973952","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","a",,"995","1655860973953","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","r","","995","1655860974125","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","r",,"996","1655860974126","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","a","","996","1655860974251","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","a",,"997","1655860974252","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","a","","997","1655860974408","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","a",,"998","1655860974408","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","c","","998","1655860974431","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","c",,"999","1655860974433","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," (charaac","990","1655860974457","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","990","1655860974458","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," (charaac","","990","1655860974458","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","999","1655860974694","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","999","1655860974695","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"1000","1655860974696","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1000","1655860974720","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655860975161","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","t$","999","1655860975164","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","999","1655860975179","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655860975328","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","c$","998","1655860975333","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","998","1655860975349","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655860975635","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","a$","997","1655860975638","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","character","777","1655860978640","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","777","1655860978642","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"778","1655860978643","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","
+
+","","18","1655860978651","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","
+
+","","66","1655860978651","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","i","781","1655860978651","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","character","","781","1655860978652","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","
+
+","18","1655860978682","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","
+
+","64","1655860978682","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","
+
+","","18","1655860978683","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","
+
+","","66","1655860978683","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","
+
+","18","1655860978715","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","
+
+","64","1655860978715","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","character","777","1655860978715","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i$","","777","1655860978716","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","778","1655860978786","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","779","1655860978792","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"779","1655860978793","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","779","1655860978929","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"780","1655860978931","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","780","1655860978954","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","780","1655860978979","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","n","","780","1655860978980","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","n",,"781","1655860978981","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","781","1655860979002","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","781","1655860979070","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","781","1655860979071","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"782","1655860979071","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","0",,"783","1655860979722","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","0","","782","1655860979720","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","783","1655860979747","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655860980907","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","783","1655860980910","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","n","785","1655860980911","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655860981056","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","i","784","1655860981057","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","u","","784","1655860981246","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","u",,"785","1655860981247","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","783","1655860981270","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","787","1655860981271","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","783","1655860981270","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","785","1655860981340","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","n","","785","1655860981341","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","n",,"786","1655860981342","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","787","1655860981368","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","786","1655860981525","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","786","1655860981526","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"787","1655860981527","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","788","1655860981543","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","787","1655860981703","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","l","","787","1655860981704","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","l",,"788","1655860981704","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","789","1655860981718","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655860982638","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","l ","787","1655860982651","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655860982765","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","i","786","1655860982768","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","786","1655860982932","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"787","1655860982934","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","788","1655860982949","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","787","1655860983104","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","l","","787","1655860983105","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","l",,"788","1655860983106","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","789","1655860983150","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655860983760","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","l ","787","1655860983762","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655860983922","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","i","786","1655860983932","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","786","1655860984010","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"787","1655860984011","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","788","1655860984028","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","787","1655860984146","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","787","1655860984147","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"788","1655860984148","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","789","1655860984163","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","788","1655860984552","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","l","","788","1655860984553","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","l",,"789","1655860984559","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",".","","800","1655860985910","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k",".",,"801","1655860985914","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","801","1655860985929","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","801","1655860986042","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","s","","801","1655860986043","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","s",,"802","1655860986044","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","802","1655860986061","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","802","1655860986139","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","802","1655860986140","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"803","1655860986141","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","803","1655860986167","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","803","1655860986240","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","z","","803","1655860986241","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","z",,"804","1655860986242","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","804","1655860986257","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","804","1655860986428","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","e","","804","1655860986429","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","e",,"805","1655860986433","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","805","1655860986454","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","805","1655860988740","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","[","","834","1655860988740","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","]","","835","1655860988742","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","[",,"835","1655860988747","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"836","1655860989146","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","835","1655860989145","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","836","1655860989175","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Left",,,"1655860989868","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","s","","834","1655860989984","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","837","1655860989985","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","s",,"835","1655860989986","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","s","834","1655860990011","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","[i$","","834","1655860990012","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","[i","834","1655860990012","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","s","","834","1655860990013","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","835","1655860993657","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","","849","1655860993657","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","","1008","1655860993657","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","s","","1048","1655860993657","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","s",,"1049","1655860993658","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","835","1655860993679","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1050","1655860993679","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","835","1655860993680","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1049","1655860993851","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","[","","1049","1655860993852","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","]","","1050","1655860993853","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","[",,"1050","1655860993858","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","1050","1655860994125","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"1051","1655860994126","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","[i","1049","1655860994143","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1049","1655860994144","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","[i","","1049","1655860994143","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","c","","1006","1655860996550","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1052","1655860996550","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","c",,"1007","1655860996552","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","c","1006","1655860996575","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",")
+            state.consumeInput(characters[i$]","","1006","1655860996576","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","",")
+            state.consumeInput(characters[i$]","1006","1655860996575","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","c$","","1006","1655860996576","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1007","1655860996775","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","1007","1655860996776","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"1008","1655860996778","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1008","1655860996803","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1008","1655860996911","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","e","","1008","1655860996912","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","e",,"1009","1655860996914","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1009","1655860996933","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1009","1655860996973","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","r","","1009","1655860996974","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","r",,"1010","1655860996977","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1010","1655860996996","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1010","1655860997131","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","s","","1010","1655860997132","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","s",,"1011","1655860997140","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1011","1655860997173","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1011","1655860997436","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","[","","1011","1655860997437","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","]","","1012","1655860997439","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","[",,"1012","1655860997442","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","1012","1655860997695","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"1013","1655860997696","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","[i","1011","1655860997718","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1011","1655860997719","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","[i","","1011","1655860997718","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1013","1655860998561","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","1014","1655860998562","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"1015","1655860998562","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","=","","1015","1655860998887","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","=",,"1016","1655860998888","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","=","","1015","1655860999011","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","=",,"1017","1655860999012","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","1017","1655860999026","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"1018","1655860999028","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","0","","1018","1655860999244","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","0",,"1019","1655860999245","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1019","1655860999271","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1019","1655860999394","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","1019","1655860999395","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"1020","1655860999395","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655861000816","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","1019","1655861000818","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655861000962","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","0","1018","1655861000963","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","""","","1018","1655861003034","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","""","","1018","1655861003036","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","""",,"1019","1655861003037","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","0","","1019","1655861003690","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","0",,"1020","1655861003691","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Right",,,"1655861004136","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","1021","1655861004676","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"1022","1655861004677","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","&","","1022","1655861005413","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","&",,"1023","1655861005417","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Apply Copilot Suggestion",,,"1655861005856","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","",")","1023","1655861005860","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","& i == 0) {
+                return false
+            }","","1023","1655861005861","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","return false","1051","1655861009682","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","1051","1655861009684","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"1052","1655861009686","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1052","1655861009708","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1052","1655861009825","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","f","","1052","1655861009826","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","f",,"1053","1655861009826","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1053","1655861009847","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1053","1655861009931","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","1053","1655861009934","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"1054","1655861009935","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","(","","1054","1655861011933","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",")","","1055","1655861011935","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","(",,"1055","1655861011938","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Apply Copilot Suggestion",,,"1655861014691","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","",")","1055","1655861014694","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","characters[i + 1] != ""."") {
+                    return false
+                }","","1055","1655861014695","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655861034302","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","if (characters[i + 1] != ""."") {
+                    return false
+                }","1051","1655861034306","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","1051","1655861034872","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"1052","1655861034873","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1052","1655861034894","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1052","1655861035028","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","f","","1052","1655861035029","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","f",,"1053","1655861035030","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1053","1655861035045","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1053","1655861035087","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","1053","1655861035091","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"1054","1655861035092","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","1054","1655861035166","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"1055","1655861035167","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655861035655","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","1054","1655861035657","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","(","","1054","1655861035920","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",")","","1055","1655861035922","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","(",,"1055","1655861035925","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","1055","1655861036150","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"1056","1655861036151","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," (i","1053","1655861036173","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1053","1655861036174","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," (i","","1053","1655861036173","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1056","1655861036262","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","1056","1655861036266","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"1057","1655861036267","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","+","","1057","1655861037358","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","+",,"1058","1655861037359","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","1058","1655861037432","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"1059","1655861037434","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","1","","1059","1655861037702","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","1",,"1060","1655861037703","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1060","1655861037720","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1060","1655861038191","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","1060","1655861038192","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"1061","1655861038193","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","<","","1061","1655861038564","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","<",,"1062","1655861038565","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","1062","1655861038641","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"1063","1655861038641","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Apply Copilot Suggestion",,,"1655861040825","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","",")","1063","1655861040828","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","characters.size && characters[i + 1] != ""."") {
+                    return false
+                }","","1063","1655861040829","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Enter",,,"1655861052354","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","                
+","","1161","1655861052359","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","r","","1177","1655861052645","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","r",,"1178","1655861052647","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1178","1655861052671","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1178","1655861052738","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","e","","1178","1655861052739","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","e",,"1179","1655861052740","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1179","1655861052766","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1179","1655861052856","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","1179","1655861052857","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"1180","1655861052858","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1180","1655861052873","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1180","1655861053012","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","u","","1180","1655861053013","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","u",,"1181","1655861053018","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1181","1655861053064","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1181","1655861053087","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","r","","1181","1655861053088","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","r",,"1182","1655861053093","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1182","1655861053130","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1182","1655861053214","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","n","","1182","1655861053215","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","n",,"1183","1655861053219","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1183","1655861053247","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1183","1655861053298","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","1183","1655861053317","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"1184","1655861053319","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","f",,"1185","1655861053675","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","f","","1184","1655861053673","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1185","1655861053696","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1185","1655861053769","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","a","","1185","1655861053770","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","a",,"1186","1655861053771","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1186","1655861053802","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1186","1655861053855","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","l","","1186","1655861053856","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","l",,"1187","1655861053857","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1187","1655861053874","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1187","1655861053974","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","s","","1187","1655861053975","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","s",,"1188","1655861053977","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1188","1655861053992","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1188","1655861054125","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","e","","1188","1655861054126","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","e",,"1189","1655861054128","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1189","1655861054171","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655861062315","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","e$","1188","1655861062317","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655861062456","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","s","1187","1655861062460","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655861062589","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","l","1186","1655861062592","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655861062717","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","a","1185","1655861062719","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655861062854","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","f","1184","1655861062856","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655861062999","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","1183","1655861063001","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655861063139","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","n","1182","1655861063143","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655861063288","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","r","1181","1655861063290","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655861063441","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","u","1180","1655861063443","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655861063601","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","t","1179","1655861063602","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655861063765","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","e","1178","1655861063766","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655861064044","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","r","1177","1655861064046","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","1177","1655861064300","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"1178","1655861064301","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1178","1655861064326","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1178","1655861064456","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","f","","1178","1655861064457","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","f",,"1179","1655861064457","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1179","1655861064471","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1179","1655861064550","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","1179","1655861064553","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"1180","1655861064585","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","(","","1180","1655861064741","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",")","","1181","1655861064743","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","(",,"1181","1655861064747","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Apply Copilot Suggestion",,,"1655861066800","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","",")","1181","1655861066802","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i + 1 == characters.size) {
+                    return false
+                }","","1181","1655861066803","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Enter",,,"1655861082285","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","            
+","","1274","1655861082289","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","1286","1655861082639","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"1287","1655861082640","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1179","1655861082670","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," (i + 1 == characters.size) {
+                    return false
+                }","","1179","1655861082671","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," (i + 1 == characters.size) {
+                    return false
+    ","1179","1655861082670","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$
+","","1179","1655861082671","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","}
+            ","1207","1655861082670","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1208","1655861082671","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1287","1655861082806","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","f","","1287","1655861082807","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","f",,"1288","1655861082807","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1288","1655861082837","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1288","1655861082963","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","1288","1655861082966","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"1289","1655861082968","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","(","","1289","1655861083154","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",")","","1290","1655861083159","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","(",,"1290","1655861083164","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","c","","1290","1655861083344","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","c",,"1291","1655861083345","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," (c","1288","1655861083370","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1288","1655861083371","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," (c","","1288","1655861083371","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1291","1655861083452","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","h","","1291","1655861083453","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","h",,"1292","1655861083453","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1292","1655861083475","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1292","1655861083571","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","a","","1292","1655861083572","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","a",,"1293","1655861083573","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1293","1655861083590","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Choose Lookup Item Replace",,,"1655861084516","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1293","1655861084522","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","racters","","1293","1655861084571","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","[","","1300","1655861085607","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","]","","1301","1655861085609","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","[",,"1301","1655861085613","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","1301","1655861085866","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"1302","1655861085866","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","racters[i","1293","1655861085884","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1293","1655861085885","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","racters[i","","1293","1655861085884","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1302","1655861086502","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","1303","1655861086503","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"1304","1655861086503","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","=","","1304","1655861086730","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","=",,"1305","1655861086730","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","=","","1304","1655861086868","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","=",,"1306","1655861086869","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","1306","1655861086954","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"1307","1655861086955","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","""","","1307","1655861087147","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","""","","1307","1655861087149","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","""",,"1308","1655861087149","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",".","","1308","1655861087403","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k",".",,"1309","1655861087406","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Right",,,"1655861087898","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Right",,,"1655861088397","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Right",,,"1655861088771","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","1311","1655861089219","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"1312","1655861089220","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","{","","1312","1655861089474","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","{",,"1313","1655861089475","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Enter",,,"1655861089730","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","}
+","","1314","1655861089734","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","
+","","1314","1655861089738","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","            ","","1315","1655861089748","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","
+","1314","1655861089752","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","            
+","","1314","1655861089755","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","    ","","1326","1655861089757","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","1330","1655861113478","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"1331","1655861113479","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1331","1655861113505","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1331","1655861113562","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","f","","1331","1655861113563","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","f",,"1332","1655861113564","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1332","1655861113577","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1332","1655861113683","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","1332","1655861113686","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"1333","1655861113686","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","(","","1333","1655861113867","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",")","","1334","1655861113868","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","(",,"1334","1655861113871","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","1334","1655861114809","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"1335","1655861114810","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Apply Copilot Suggestion",,,"1655861121292","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","",")","1335","1655861121295","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," + 1 < characters.size && characters[i + 1] == ""0"") {
+                    return false
+                }","","1335","1655861121296","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","== ""0""","1379","1655861126016","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","!",,"1380","1655861126019","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","!","","1379","1655861126019","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","1380","1655861126472","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"1381","1655861126473","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655861126783","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","1380","1655861126784","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","1380","1655861126981","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"1381","1655861126982","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," (i + 1 < characters.size && characters[i + 1] !i","1332","1655861126999","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1332","1655861127000","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," (i + 1 < characters.size && characters[i + 1] !i","","1332","1655861127000","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1381","1655861127054","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","n","","1381","1655861127055","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","n",,"1382","1655861127056","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1382","1655861127069","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1382","1655861127150","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","1382","1655861127154","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"1383","1655861127155","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","""","","1383","1655861128221","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","""",,"1384","1655861128223","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","""","","1383","1655861128223","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Apply Copilot Suggestion",,,"1655861129136","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","0-9","","1384","1655861129137","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655861131499","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","-","1385","1655861131501","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","1","","1385","1655861131622","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","1",,"1386","1655861131623","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","2","","1386","1655861131692","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","2",,"1387","1655861131693","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","3","","1387","1655861131927","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","3",,"1388","1655861131928","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","4","","1388","1655861132141","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","4",,"1389","1655861132142","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","5","","1389","1655861132318","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","5",,"1390","1655861132319","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","6","","1390","1655861132594","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","6",,"1391","1655861132595","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","7","","1391","1655861133054","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","7",,"1392","1655861133056","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","8","","1392","1655861133568","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","8",,"1393","1655861133569","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Enter",,,"1655861144447","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","                
+","","1450","1655861144452","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","1466","1655861144817","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"1467","1655861144818","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1467","1655861144837","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1467","1655861144948","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","f","","1467","1655861144949","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","f",,"1468","1655861144951","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1468","1655861144965","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1468","1655861145070","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","1468","1655861145075","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"1469","1655861145076","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","(","","1469","1655861145235","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",")","","1470","1655861145238","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","(",,"1470","1655861145242","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Apply Copilot Suggestion",,,"1655861146563","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","",")","1470","1655861146565","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i + 1 == characters.size) {
+                    return false
+                }","","1470","1655861146566","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Enter",,,"1655861160105","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","                
+","","971","1655861160108","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Cut",,,"1655861165639","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"c","if (i + 1 < characters.size && characters[i + 1] !in ""0123456789"") {
+                    return false
+                }
+                if (i + 1 == characters.size) {
+                    return false
+                }",,"1347","1655861165694","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","if (i + 1 < characters.size && characters[i + 1] !in ""0123456789"") {
+                    return false
+                }
+                if (i + 1 == characters.size) {
+                    return false
+                }","1347","1655861165785","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655861167704","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","        if (characters[i] == ""."") {
+                
+            }
+    ","1295","1655861167708","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Paste",,,"1655861170504","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"p","if (i + 1 < characters.size && characters[i + 1] !in ""0123456789"") {
+                    return false
+                }
+                if (i + 1 == characters.size) {
+                    return false
+                }",,"987","1655861170516","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","if (i + 1 < characters.size && characters[i + 1] !in ""0123456789"") {
+                    return false
+                }
+                if (i + 1 == characters.size) {
+                    return false
+                }","","987","1655861170520","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Copy",,,"1655861244446","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"c","val isAccepting",,"1574","1655861244449","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655861246087","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","1577","1655861246090","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","
+
+","","18","1655861246095","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","
+
+","","66","1655861246095","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","","1570","1655861246095","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","1581","1655861246095","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655861246242","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","
+
+","18","1655861246245","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","
+
+","64","1655861246245","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","","1566","1655861246245","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","l ","1576","1655861246245","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655861246372","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","a","1575","1655861246375","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655861246640","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","v","1574","1655861246641","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Enter",,,"1655861249915","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","
+    ","","562","1655861249919","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Paste",,,"1655861250159","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"p","val isAccepting",,"567","1655861250160","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","val isAccepting","","567","1655861250163","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Left",,,"1655861251867","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","p","","567","1655861252115","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","p",,"568","1655861252116","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","568","1655861252132","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","568","1655861252287","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","r","","568","1655861252288","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","r",,"569","1655861252297","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","569","1655861252329","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"570","1655861252336","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","v","","571","1655861252425","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","v",,"571","1655861252432","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","a","","571","1655861252540","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","a",,"572","1655861252545","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","572","1655861252664","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"573","1655861252669","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","e","","573","1655861252725","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","e",,"574","1655861252737","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","574","1655861252815","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"575","1655861252817","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655861255081","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","l","577","1655861255090","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","r","","577","1655861255205","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","r",,"578","1655861255206","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","578","1655861255228","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","578","1655861257500","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","590","1655861257500","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"591","1655861257502","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","
+
+","","18","1655861257505","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","
+
+","","66","1655861257505","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","","567","1655861257505","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","594","1655861257505","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","
+
+","18","1655861257593","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","
+
+","64","1655861257593","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","","563","1655861257593","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," =","","590","1655861257593","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","=",,"592","1655861257594","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","592","1655861257650","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"593","1655861257651","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","f","","593","1655861257782","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","f",,"594","1655861257783","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","594","1655861257809","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","594","1655861257875","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","a","","594","1655861257876","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","a",,"595","1655861257879","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","595","1655861257904","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","595","1655861257968","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","l","","595","1655861257969","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","l",,"596","1655861257971","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","596","1655861258004","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","596","1655861258051","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","s","","596","1655861258052","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","s",,"597","1655861258052","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","597","1655861258113","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","597","1655861258211","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","e","","597","1655861258212","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","e",,"598","1655861258212","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","598","1655861258245","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655861266043","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","e$","597","1655861266045","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655861266197","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","s","596","1655861266200","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655861266332","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","l","595","1655861266333","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655861266468","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","a","594","1655861266469","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655861266726","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","f","593","1655861266728","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","593","1655861266887","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"594","1655861266889","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","594","1655861266917","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","594","1655861266970","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","r","","594","1655861266971","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","r",,"595","1655861266971","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","595","1655861266993","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","595","1655861267122","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","u","","595","1655861267123","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","u",,"596","1655861267125","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","596","1655861267169","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","596","1655861267197","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","e","","596","1655861267198","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","e",,"597","1655861267200","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","597","1655861267252","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655861267796","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","e$","596","1655861267798","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655861267939","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","u","595","1655861267941","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655861268072","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","r","594","1655861268074","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655861268216","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","t","593","1655861268218","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","f",,"594","1655861268305","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","f","","593","1655861268304","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","594","1655861268334","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","594","1655861268363","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","a","","594","1655861268364","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","a",,"595","1655861268365","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","595","1655861268387","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","l",,"596","1655861268534","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","595","1655861268531","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","l","","595","1655861268532","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","596","1655861268558","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","596","1655861268621","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","s","","596","1655861268622","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","s",,"597","1655861268625","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","597","1655861268648","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","597","1655861268739","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","e","","597","1655861268740","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","e",,"598","1655861268742","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","598","1655861268772","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Cut",,,"1655861276739","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"c","isAccepting = state.isAccepting
+        state = StartState(this)",,"1610","1655861276741","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","598","1655861276752","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","isAccepting = state.isAccepting
+        state = StartState(this)","1610","1655861276752","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Enter",,,"1655861280244","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","    
+        ","","1599","1655861280248","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Paste",,,"1655861280976","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"p","isAccepting = state.isAccepting
+        state = StartState(this)",,"1603","1655861280978","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","isAccepting = state.isAccepting
+        state = StartState(this)","","1603","1655861280980","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","    ","","1643","1655861280993","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655861284977","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","1690","1655861284982","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","
+","1682","1655861284986","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","1682","1655861284987","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","EditorChange",,,"1655861300823","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Enter",,,"1655861306110","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","            
+","","1545","1655861306114","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","i","","1557","1655861306568","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","i",,"1558","1655861306569","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","598","1655861306594","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1559","1655861306594","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","598","1655861306594","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1558","1655861306623","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","f","","1558","1655861306624","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","f",,"1559","1655861306625","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1559","1655861306642","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1559","1655861306810","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","1559","1655861306823","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"1560","1655861306824","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","(","","1560","1655861307019","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",")","","1561","1655861307022","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","(",,"1561","1655861307025","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","n","","1561","1655861309508","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","n",,"1562","1655861309508","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," (n","1559","1655861309533","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1559","1655861309534","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," (n","","1559","1655861309533","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1562","1655861309652","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","u","","1562","1655861309653","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","u",,"1563","1655861309656","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1563","1655861309672","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1563","1655861309833","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","m","","1563","1655861309834","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","m",,"1564","1655861309834","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1564","1655861309849","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1564","1655861310015","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","O","","1564","1655861310016","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","O",,"1565","1655861310018","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1565","1655861310040","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1565","1655861310156","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","f","","1565","1655861310157","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","f",,"1566","1655861310160","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1566","1655861310175","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Choose Lookup Item Replace",,,"1655861310697","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1566","1655861310703","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","Periods","","1566","1655861310706","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","1573","1655861313400","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"1574","1655861313401","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","<","","1574","1655861314911","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","<",,"1575","1655861314912","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","1575","1655861315068","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"1576","1655861315071","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","1","","1576","1655861315306","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","1",,"1577","1655861315307","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","Periods < 1)
+            state.consumeInput(characters[i]","1566","1655861315331","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1566","1655861315331","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1566","1655861315332","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","Periods < 1$)
+            state.consumeInput(characters[i]","","1566","1655861315332","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Right",,,"1655861316359","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1577","1655861316887","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","1578","1655861316888","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"1579","1655861316888","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","{","","1579","1655861317058","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","{",,"1580","1655861317059","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Enter",,,"1655861317195","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","}
+","","1581","1655861317197","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","
+","","1581","1655861317200","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","            ","","1582","1655861317209","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","
+","1581","1655861317213","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","
+            ","","1593","1655861317216","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","    ","","1593","1655861317217","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","r","","1597","1655861317835","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","r",,"1598","1655861317836","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1577","1655861317859","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," {","1579","1655861317860","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","    r
+            }","1592","1655861317859","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","state.consumeInput(characters[i])","","1592","1655861317860","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1577","1655861317859","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," {","","1578","1655861317860","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","state.consumeInput(characters[i])","1593","1655861317859","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","    r$
+            }","","1593","1655861317860","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1598","1655861317953","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","e","","1598","1655861317954","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","e",,"1599","1655861317955","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1599","1655861317972","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1599","1655861318041","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","t","","1599","1655861318042","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","t",,"1600","1655861318043","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1600","1655861318072","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1600","1655861318138","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","u","","1600","1655861318139","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","u",,"1601","1655861318139","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1601","1655861318153","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1601","1655861318296","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","r","","1601","1655861318297","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","r",,"1602","1655861318301","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","n","","1602","1655861318366","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","n",,"1603","1655861318371","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1603","1655861318426","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1603","1655861318472","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e"," ","","1603","1655861318486","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k"," ",,"1604","1655861318488","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","f","","1604","1655861318505","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","f",,"1605","1655861318506","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1605","1655861318524","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1605","1655861318550","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","a","","1605","1655861318551","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","a",,"1606","1655861318551","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1606","1655861318578","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1606","1655861318651","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","l","","1606","1655861318652","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","l",,"1607","1655861318653","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1607","1655861318668","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1607","1655861318712","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","s","","1607","1655861318713","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","s",,"1608","1655861318715","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1608","1655861318748","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1608","1655861318843","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","e","","1608","1655861318844","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"k","e",,"1609","1655861318844","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","$","","1609","1655861318862","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","$","1609","1655861323888","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","        ","1761","1655861323888","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Cut",,,"1655861334859","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"c","if (numOfPeriods < 1) {
+                return false
+            }",,"1557","1655861334860","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","if (numOfPeriods < 1) {
+                return false
+            }","1557","1655861334878","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655861335663","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","1556","1655861335668","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","       
+    ","1549","1655861335670","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Enter",,,"1655861336892","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","    
+        ","","1599","1655861336896","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Paste",,,"1655861337108","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"p","if (numOfPeriods < 1) {
+                return false
+            }",,"1603","1655861337109","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","if (numOfPeriods < 1) {
+                return false
+            }","","1603","1655861337111","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Cut",,,"1655861346659","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"c","if (numOfPeriods < 1) {
+                return false
+            }",,"1603","1655861346661","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","if (numOfPeriods < 1) {
+                return false
+            }","1603","1655861346672","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655861347000","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","1602","1655861347005","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","       
+    ","1595","1655861347007","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Tab",,,"1655861348694","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","    ","","1682","1655861348697","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Tab",,,"1655861349010","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","    ","","1686","1655861349012","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","Paste",,,"1655861349841","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"p","if (numOfPeriods < 1) {
+                return false
+            }",,"1690","1655861349842","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","if (numOfPeriods < 1) {
+                return false
+            }","","1690","1655861349845","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","    ","1726","1655861349853","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"e","","    ","1747","1655861349855","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",
+"a","EditorChange",,,"1655861456576","FloatingPtDetector.kt","1.1.3 for 2021-2022 @t1",

@@ -10,16 +10,15 @@ class StartState(detector: Detector): State(detector) {
 
     override fun consumeInput(string: String) {
         when (string) {
-            in "0123456789" -> {
+            in "123456789" -> {
                 detector.state = ValidNumberState(detector)
-            }
-            in "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ" -> {
+            } in "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ" -> {
                 detector.state = ValidCharacterState(detector)
-            }
-            in "~`!@#$%^&*()_+-={}|[]\\:\";'<>?,./" -> {
+            } in "~`!@#$%^&*()_+-={}|[]\\:\";'<>?,/" -> {
                 detector.state = ValidSymbolState(detector)
-            }
-            else -> {
+            } in "0." -> {
+                detector.state = ValidStartState(detector)
+            } else -> {
                 detector.state = InvalidState(detector)
             }
         }
