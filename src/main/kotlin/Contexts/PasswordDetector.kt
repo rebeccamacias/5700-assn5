@@ -3,8 +3,6 @@ package Contexts
 import States.StartState
 import States.State
 
-//1. A complex password is a password that has at least 1 capital letter, at least 1 special character (!@#$%&*), and cannot end with a special character.
-//2. A password has at least 8 chars
 class PasswordDetector: Detector() {
     override var state: State = StartState(this)
     override var isAccepting: Boolean = false
