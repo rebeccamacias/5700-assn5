@@ -3,16 +3,11 @@ package Contexts
 import States.StartState
 import States.State
 
-// 1. A floating point value can start with either a (1-9) or a 0, or a period (.)
-// 2. If the value starts with a 0 then a period must be the next character
-// 3. The period must be followed by at least one digit (0-9)
-// 4. A floating point value contains exactly one period
-// 5. A floating point number must not contain any chars other than a period or a digit (0-9)
 
 class FloatingPtDetector: Detector() {
     override var state: State = StartState(this)
     private var numOfPeriods: Int = 0
-    private var isAccepting = false
+    override var isAccepting = false
 
     override fun detect(input: String): Boolean {
         val characters = input

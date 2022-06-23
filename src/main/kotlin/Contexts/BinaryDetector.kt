@@ -5,7 +5,7 @@ import States.State
 
 class BinaryDetector: Detector() {
     override var state: State = StartState(this)
-    var isAccepting = false
+    override var isAccepting = false
 
     override fun detect(input: String): Boolean {
         val characters = input

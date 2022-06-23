@@ -6220,3 +6220,64 @@ internal class EmailDetectorTest {
         assertFalse(detector.detect(""joseph ditton@usu.edu""))
     }
 }","","0","1655859176248","EmailDetectorTest.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655879280711","PasswordDetectorTest.kt","1.1.3 for 2021-2022 @t1",
+"e","","    @Test
+    fun detect2T() {
+        val passwordDetector = PasswordDetector()
+        assertTrue(passwordDetector.detect(""1234567*9""))
+    }","279","1655879280722","PasswordDetectorTest.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655879281002","PasswordDetectorTest.kt","1.1.3 for 2021-2022 @t1",
+"e","","
+","280","1655879281009","PasswordDetectorTest.kt","1.1.3 for 2021-2022 @t1",
+"e","    ","","278","1655879281011","PasswordDetectorTest.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655879281641","PasswordDetectorTest.kt","1.1.3 for 2021-2022 @t1",
+"e",""," ","281","1655879281645","PasswordDetectorTest.kt","1.1.3 for 2021-2022 @t1",
+"e","","
+   ","277","1655879281648","PasswordDetectorTest.kt","1.1.3 for 2021-2022 @t1",
+"a","Backspace",,,"1655879282974","PasswordDetectorTest.kt","1.1.3 for 2021-2022 @t1",
+"e","","3","303","1655879282977","PasswordDetectorTest.kt","1.1.3 for 2021-2022 @t1",
+"e","
+
+","","18","1655879282981","PasswordDetectorTest.kt","1.1.3 for 2021-2022 @t1",
+"e","
+
+","","98","1655879282981","PasswordDetectorTest.kt","1.1.3 for 2021-2022 @t1",
+"e","","","293","1655879282981","PasswordDetectorTest.kt","1.1.3 for 2021-2022 @t1",
+"e","3","","307","1655879282981","PasswordDetectorTest.kt","1.1.3 for 2021-2022 @t1",
+"e","","
+
+","18","1655879282987","PasswordDetectorTest.kt","1.1.3 for 2021-2022 @t1",
+"e","","
+
+","96","1655879282987","PasswordDetectorTest.kt","1.1.3 for 2021-2022 @t1",
+"e","
+
+","","18","1655879282987","PasswordDetectorTest.kt","1.1.3 for 2021-2022 @t1",
+"e","
+
+","","98","1655879282987","PasswordDetectorTest.kt","1.1.3 for 2021-2022 @t1",
+"e","","
+
+","18","1655879283183","PasswordDetectorTest.kt","1.1.3 for 2021-2022 @t1",
+"e","","
+
+","96","1655879283183","PasswordDetectorTest.kt","1.1.3 for 2021-2022 @t1",
+"e","","3","303","1655879283183","PasswordDetectorTest.kt","1.1.3 for 2021-2022 @t1",
+"e","2","","303","1655879283184","PasswordDetectorTest.kt","1.1.3 for 2021-2022 @t1",
+"k","2",,"304","1655879283185","PasswordDetectorTest.kt","1.1.3 for 2021-2022 @t1",
+"e","X.f()$","","304","1655879283228","PasswordDetectorTest.kt","1.1.3 for 2021-2022 @t1",
+"a","Undefined",,,"1655879289078","PasswordDetectorTest.kt","1.1.3 for 2021-2022 @t1",
+"a","Undefined",,,"1655879289081","PasswordDetectorTest.kt","1.1.3 for 2021-2022 @t1",
+"a","Undefined",,,"1655879289082","PasswordDetectorTest.kt","1.1.3 for 2021-2022 @t1",
+"a","Undefined",,,"1655879289085","PasswordDetectorTest.kt","1.1.3 for 2021-2022 @t1",
+"a","Undefined",,,"1655879291061","PasswordDetectorTest.kt","1.1.3 for 2021-2022 @t1",
+"a","Undefined",,,"1655879291062","PasswordDetectorTest.kt","1.1.3 for 2021-2022 @t1",
+"a","Undefined",,,"1655879291064","PasswordDetectorTest.kt","1.1.3 for 2021-2022 @t1",
+"a","Undefined",,,"1655879291065","PasswordDetectorTest.kt","1.1.3 for 2021-2022 @t1",
+"a","EditorChange",,,"1655879324627","PasswordDetectorTest.kt","1.1.3 for 2021-2022 @t1",
+"a","Close Active Editor",,,"1655879325052","PasswordDetectorTest.kt","1.1.3 for 2021-2022 @t1",
+"a","Close Active Editor",,,"1655879325985","PasswordDetectorTest.kt","1.1.3 for 2021-2022 @t1",
+"a","Close Active Editor",,,"1655879326804","PasswordDetectorTest.kt","1.1.3 for 2021-2022 @t1",
+"a","Close Active Editor",,,"1655879328619","PasswordDetectorTest.kt","1.1.3 for 2021-2022 @t1",
+"a","Close Active Editor",,,"1655879329500","PasswordDetectorTest.kt","1.1.3 for 2021-2022 @t1",
+"a","Close Active Editor",,,"1655879330347","PasswordDetectorTest.kt","1.1.3 for 2021-2022 @t1",

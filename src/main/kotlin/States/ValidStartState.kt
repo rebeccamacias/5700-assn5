@@ -1,13 +1,17 @@
 package States
 
+import Contexts.BinaryDetector
 import Contexts.Detector
 
 class ValidStartState(detector: Detector): State(detector) {
-    override val isAccepting: Boolean
-        get() = true
+    override var isAccepting = true
 
     override fun consumeInput(string: String) {
-        if (string !in "0.") {
+        if (string == "0") {
+            if (detector !is BinaryDetector) {
+                detector.state = ValidNumberState(detector)
+            }
+        } else if (string !in "0.") {
             detector.state = InvalidState(detector)
         }
     }
